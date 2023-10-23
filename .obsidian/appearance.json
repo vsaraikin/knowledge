@@ -1,0 +1,15 @@
+{
+  "theme": "system",
+  "cssTheme": "",
+  "translucency": false,
+  "accentColor": "#4b8fe7",
+  "nativeMenus": false,
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "style",
+    "dashboard",
+    "dashboard-readline"
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": false
+}

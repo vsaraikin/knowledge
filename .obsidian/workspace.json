@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "7a5dea34347aed3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "357fe4ea16b124b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30419560b20e387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend Engineer/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77850baf97bc057a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7dbaddcf6467c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "e951861262311a56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dd11c6dd1b58e61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a41db0c30588d100",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "уровни тра",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fd69fbf8a03591e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.50390243530273
+  },
+  "right": {
+    "id": "c0b8c491b5e952f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "03398e492ab66e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26d8f69f7975f20f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend Engineer/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21002f8b14f07cfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backend Engineer/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8f13ae794f04e85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "bf69fe7e1a904f03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backend Engineer/README.md"
+              }
+            }
+          },
+          {
+            "id": "e190c1b3b066e197",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "160442b03a700a27",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "77850baf97bc057a",
+  "lastOpenFiles": [
+    "Backend Engineer/Computer Science.md",
+    "Backend Engineer/Databases.md",
+    "Backend Engineer/Cloud.md",
+    "Backend Engineer/Celery and MQ.md",
+    "Backend Engineer/Architecture.md",
+    "Backend Engineer/README.md",
+    "Programming Languages/Golang Interview.md",
+    "Dashboard.md",
+    "fastapi-roadmap-artemshumeiko.pdf",
+    "Obsidian Future Plans.md",
+    "To-do.md",
+    "Knowledge Base/Interview.md",
+    "Knowledge Base/Courses.md",
+    "Knowledge Base/C++ ШАД.md",
+    "Interview/README.md",
+    "Interview/Common Behave.md",
+    "Interview/QnA.md",
+    "Interview/Bio.md",
+    "Interview/Behavioural Interview.md",
+    "Untitled.canvas",
+    "[.md",
+    "Programming Languages/Python Web Frameworks.md",
+    "Programming Languages/Python Interview.md",
+    "Programming Languages/JavaScript.md",
+    "Random/Cover Letter.md",
+    "Programming Languages/C++ Interview.md",
+    "Backend Engineer/Web and Networks.md",
+    "static/Pasted image 20230809164654.png",
+    "static/Pasted image 20230805173612.png",
+    "static/golang-scheduler.png",
+    "static/Pasted image 20230805163438.png",
+    "Excalidraw",
+    "Programming Languages",
+    "Interview",
+    "Backend Engineer",
+    "Random",
+    "Knowledge Base/Untitled",
+    "Random/Pasted image 20230410181733.png",
+    "CCXT",
+    "Projects",
+    "Software Engineer Interview/topics/media/testing-pyramid.png",
+    "Software Engineer Interview/topics/media/sql-joins.png",
+    "Software Engineer Interview/topics/media/sql-funcs.png",
+    "Software Engineer Interview/topics/media/prototype.png",
+    "Software Engineer Interview/topics/media/mro.png",
+    "Software Engineer Interview/topics/media"
+  ]
+}

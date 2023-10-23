@@ -1,0 +1,21 @@
+{
+  "promptDelete": false,
+  "tabSize": 4,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "livePreview": true,
+  "showIndentGuide": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "useMarkdownLinks": true,
+  "autoPairMarkdown": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "static"
+}
