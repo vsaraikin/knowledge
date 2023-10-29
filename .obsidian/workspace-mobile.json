@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python Interview.md",
-                "mode": "source",
+                "file": "Programming Languages/Golang Interview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Programming Languages/Python Interview.md",
+            "file": "Programming Languages/Golang Interview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Programming Languages/Python Interview.md",
+            "file": "Programming Languages/Golang Interview.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Programming Languages/Python Interview.md"
+            "file": "Programming Languages/Golang Interview.md"
           }
         }
       },
@@ -131,7 +131,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -142,6 +141,7 @@
   },
   "active": "e13085c4cf5d0a8b",
   "lastOpenFiles": [
+    "Programming Languages/Python Interview.md",
     "fastapi-roadmap-artemshumeiko.pdf",
     "Backend Engineer/Web and Networks.md",
     "Backend Engineer/README.md",
@@ -155,7 +155,6 @@
     "Interview/Bio.md",
     "Backend Engineer/Practices.md",
     "Backend Engineer/Testing.md",
-    "Programming Languages/Python Interview.md",
     "Backend Engineer/Docker.md",
     "Programming Languages/Golang Interview.md",
     "Backend Engineer/Linux.md",

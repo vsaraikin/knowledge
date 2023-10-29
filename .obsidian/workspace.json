@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "357fe4ea16b124b5",
+        "id": "285146dc4ca47bca",
         "type": "tabs",
         "children": [
           {
-            "id": "e30419560b20e387",
+            "id": "dbdbefad9eda5c96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend Engineer/README.md",
+                "file": "Programming Languages/Golang Interview.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "77850baf97bc057a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "уровни тра",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.50390243530273
+    "width": 308.5
   },
   "right": {
     "id": "c0b8c491b5e952f5",
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend Engineer/README.md",
+                "file": "Programming Languages/Golang Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend Engineer/README.md",
+                "file": "Programming Languages/Golang Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend Engineer/README.md"
+                "file": "Programming Languages/Golang Interview.md"
               }
             }
           },
@@ -157,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
+    "width": 490.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,39 +160,39 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77850baf97bc057a",
+  "active": "dbdbefad9eda5c96",
   "lastOpenFiles": [
     "Backend Engineer/Computer Science.md",
+    "Programming Languages/Golang Interview.md",
+    "Backend Engineer/Web and Networks.md",
+    "().md",
+    "Dashboard.md",
+    "Backend Engineer/README.md",
+    "To-do.md",
+    "Obsidian Future Plans.md",
+    "Knowledge Base/Interview.md",
+    "Untitled.canvas",
+    "Random/Ideas.md",
+    "Random/Cover Letter.md",
+    "Random/System Design Interview.md",
+    "Random/Framework boost.md",
+    "Programming Languages/JavaScript.md",
+    "Interview/Behavioural Interview.md",
+    "Interview/Common Behave.md",
+    "Interview/Bio.md",
+    "Languages/Spanish Sources.md",
+    "Knowledge Base/Topics/Machine Learning.md",
+    "Knowledge Base/Topics/Frontend.md",
+    "Knowledge Base/Topics/Cover Letter.md",
+    "Knowledge Base/Topics/Kubernetes.md",
+    "Random/Priorities.md",
     "Backend Engineer/Databases.md",
     "Backend Engineer/Cloud.md",
     "Backend Engineer/Celery and MQ.md",
-    "Backend Engineer/Architecture.md",
-    "Backend Engineer/README.md",
-    "Programming Languages/Golang Interview.md",
-    "Dashboard.md",
     "fastapi-roadmap-artemshumeiko.pdf",
-    "Obsidian Future Plans.md",
-    "To-do.md",
-    "Knowledge Base/Interview.md",
-    "Knowledge Base/Courses.md",
-    "Knowledge Base/C++ ШАД.md",
-    "Interview/README.md",
-    "Interview/Common Behave.md",
-    "Interview/QnA.md",
-    "Interview/Bio.md",
-    "Interview/Behavioural Interview.md",
-    "Untitled.canvas",
-    "[.md",
-    "Programming Languages/Python Web Frameworks.md",
-    "Programming Languages/Python Interview.md",
-    "Programming Languages/JavaScript.md",
-    "Random/Cover Letter.md",
-    "Programming Languages/C++ Interview.md",
-    "Backend Engineer/Web and Networks.md",
     "static/Pasted image 20230809164654.png",
     "static/Pasted image 20230805173612.png",
     "static/golang-scheduler.png",
