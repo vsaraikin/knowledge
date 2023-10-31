@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Golang Interview.md",
+                "file": "Backend Engineer/Web and Networks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Programming Languages/Golang Interview.md",
+            "file": "Backend Engineer/Web and Networks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Programming Languages/Golang Interview.md",
+            "file": "Backend Engineer/Web and Networks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Programming Languages/Golang Interview.md"
+            "file": "Backend Engineer/Web and Networks.md"
           }
         }
       },
@@ -139,9 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e13085c4cf5d0a8b",
+  "active": "5acbe028ca38eaf4",
   "lastOpenFiles": [
+    "Backend Engineer/Computer Science.md",
     "Programming Languages/Python Interview.md",
+    "Programming Languages/Golang Interview.md",
     "fastapi-roadmap-artemshumeiko.pdf",
     "Backend Engineer/Web and Networks.md",
     "Backend Engineer/README.md",
@@ -156,11 +158,9 @@
     "Backend Engineer/Practices.md",
     "Backend Engineer/Testing.md",
     "Backend Engineer/Docker.md",
-    "Programming Languages/Golang Interview.md",
     "Backend Engineer/Linux.md",
     "Programming Languages/README.md",
     "To-do.md",
-    "Backend Engineer/Computer Science.md",
     "Backend Engineer/Cloud.md",
     "static/Pasted image 20230809164654.png",
     "Interview/QnA.md",
