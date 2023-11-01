@@ -3,28 +3,25 @@ cssclass: dashboard
 ---
 # Home
 
----
 ## Career
 
-- ### Learning
+- ### [Learning](Career/Learning/README.md)
 	- [IT](Career/Learning/IT/Backend/README.md)
-	- Finance [In progress]
-	- MSAI [In progress]
+	- [Finance](Career/Learning/Finance/README.md)
+	- MSAI – create a submodule?
 
-- ### Recruitment
+- ### [Recruitment](Career/Recruitment/README.md)
 	- [HR Interview](Career/Recruitment/HR%20Interview/README.md)
-	- Past Interviews [In progress]
+	- [README](Career/Recruitment/Past%20Interviews/README.md)
 	- [Resume & CV](Career/Recruitment/Resume%20&%20CV/README.md)
----
 
 - ## [Health](Health/README.md)
 	- [Analysis](Analysis.md)
 	- [Medicine](Medicine.md)
 
----
-## Hobbies
+## [Hobbies](Hobbies/README.md)
 
-- ### Art
+- ### [Art](Hobbies/Art/README.md)
 	- [Books](Books.md)
 	- [Films](Films.md)
 	- [Paintings](Paintings.md)
@@ -37,7 +34,5 @@ cssclass: dashboard
 - ### Photography
 - ### Travelling
 
----
-## Vault Info
 
 

@@ -8,6 +8,10 @@ read -p "Continue with commit? (y/n): " choice
 
 if [ "$choice" == "y" ] || [ "$choice" == "Y" ]; then
     d=$(date +"%Y-%m-%d %T")
+
+    tail -n +4 Home.md > .github/README.md
+    echo "Updated README"
+
     git add .  # Consider being more explicit here
     git commit -m "vault backup ${d}" 
     git push

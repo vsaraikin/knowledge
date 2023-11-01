@@ -13,6 +13,7 @@
 	4. Map of key shortcuts
 4. Backup to Git:
 	1. Provide a tool to push by pressing one button
+5. Fix relative paths in Obsidian & Github 
 
 ## Inspiration:
 

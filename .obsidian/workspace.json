@@ -20,17 +20,15 @@
             }
           },
           {
-            "id": "23b36bec38ce3197",
+            "id": "bb5c78c74a7d69c6",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Home.md"
               }
             }
           },
@@ -179,17 +177,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23b36bec38ce3197",
+  "active": "bb5c78c74a7d69c6",
   "lastOpenFiles": [
-    "Career/Learning/IT/Backend/README.md",
-    "README.md",
+    "Hobbies/Art/README.md",
+    "Home.md",
+    "_excalidraw/me, myself & i.excalidraw.md",
+    "Hobbies/README.md",
+    "Career/Recruitment/README.md",
+    "Career/Recruitment/HR Interview/README.md",
+    "Career/Recruitment/Past Interviews/README.md",
+    "Random/Framework boost.md",
+    "Career/Learning/Finance/README.md",
+    "Career/Learning/README.md",
     "Health/README.md",
+    "_settings/Obsidian Future Plans.md",
+    "untitled folder",
+    "Career/Learning/IT/Backend/README.md",
     "Health/Medicine.md",
     "Health/Analysis.md",
-    "_settings/Obsidian Future Plans.md",
     "_settings/Settings.md",
     "Career/Recruitment/Resume & CV/README.md",
-    "_excalidraw/me, myself & i.excalidraw.md",
     "_Diary/To Do.md",
     "_Diary/Watched Videos.md",
     "Career/Recruitment/Resume & CV/Cover Letter.md",
@@ -208,14 +215,6 @@
     "To-do.md",
     "Knowledge Base/Interview.md",
     "Career/Recruitment/HR Interview/Bio.md",
-    "Career/Learning/IT/DevOps/Kubernetes.md",
-    "Career/Learning/IT/DevOps",
-    "Knowledge Base/Topics/Cover Letter.md",
-    "Career/Learning/IT/Programming Languages/C++ Interview.md",
-    "Career/Learning/IT/Courses/C++ ШАД.md",
-    "Knowledge Base/C++ ШАД.md",
-    "Career/Learning/IT/Frontend/Frontend.md",
-    "_Diary/Ideas.md",
     "Random/Pasted image 20230410181733.png",
     "Untitled.canvas",
     "_static/Pasted image 20230809164654.png",
