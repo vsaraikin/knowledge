@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fd641287bce85357",
+        "id": "fa3d0c47e4c4da16",
         "type": "tabs",
         "children": [
           {
-            "id": "d2e3dc909514d63c",
+            "id": "04201a755d83c05c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "_excalidraw/me, myself & i.excalidraw.md"
+              },
+              "pinned": true
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_excalidraw/me, myself & i.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_excalidraw/me, myself & i.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_excalidraw/me, myself & i.excalidraw.md"
+              }
             }
           },
           {
@@ -152,52 +160,53 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d2e3dc909514d63c",
+  "active": "04201a755d83c05c",
   "lastOpenFiles": [
-    "Programming Languages/Golang Interview.md",
-    "Programming Languages/Golang Interview.md~",
-    "Obsidian Future Plans.md",
+    "_settings/Obsidian Future Plans.md",
+    "_excalidraw/me, myself & i.excalidraw.md",
+    "_settings/Settings.md",
+    "Diary/To Do.md",
     "To-do.md",
-    "Backend Engineer/Computer Science.md",
-    "Backend Engineer/Web and Networks.md",
-    "().md",
     "Dashboard.md",
-    "Backend Engineer/README.md",
+    "Career/Learning/IT/Courses/Courses.md",
     "Knowledge Base/Interview.md",
-    "Untitled.canvas",
-    "Random/Ideas.md",
-    "Random/Cover Letter.md",
-    "Random/System Design Interview.md",
-    "Random/Framework boost.md",
-    "Programming Languages/JavaScript.md",
-    "Interview/Behavioural Interview.md",
-    "Interview/Common Behave.md",
-    "Interview/Bio.md",
-    "Languages/Spanish Sources.md",
-    "Knowledge Base/Topics/Machine Learning.md",
-    "Knowledge Base/Topics/Frontend.md",
+    "Career/Recruitment/HR Interview/Bio.md",
+    "Career/Learning/IT/DevOps/Kubernetes.md",
+    "Career/Learning/IT/DevOps",
+    "Career/Recruitment/Resume & CV/Cover Letter.md",
     "Knowledge Base/Topics/Cover Letter.md",
-    "Knowledge Base/Topics/Kubernetes.md",
+    "Career/Learning/IT/Programming Languages/C++ Interview.md",
+    "Career/Learning/IT/Courses/C++ ШАД.md",
+    "Career/Learning/IT/Courses",
+    "Knowledge Base/C++ ШАД.md",
+    "Career/Learning/IT/Machine Learning",
+    "Career/Learning/IT/Frontend/Frontend.md",
+    "Career/Learning/IT/Frontend",
+    "Diary/Ideas.md",
+    "Career/Learning/IT/Backend/docs",
+    "Hobbies/Languages/Spanish.md",
+    "Random/Framework boost.md",
+    "Random/System Design Interview.md",
     "Random/Priorities.md",
-    "Backend Engineer/Databases.md",
-    "Backend Engineer/Cloud.md",
-    "fastapi-roadmap-artemshumeiko.pdf",
-    "static/Pasted image 20230809164654.png",
-    "static/Pasted image 20230805173612.png",
-    "static/golang-scheduler.png",
-    "static/Pasted image 20230805163438.png",
-    "Excalidraw",
-    "Programming Languages",
-    "Interview",
-    "Backend Engineer",
-    "Random",
-    "Knowledge Base/Untitled",
     "Random/Pasted image 20230410181733.png",
-    "CCXT",
-    "Projects",
+    "Career/Recruitment/HR Interview/Behavioural Interview.md",
+    "Career/Recruitment/HR Interview/README.md",
+    "Career/Recruitment/HR Interview/QnA.md",
+    "Career/Recruitment/HR Interview/Common Behave.md",
+    "_settings",
+    "Diary",
+    "Health",
+    "Hobbies/Photography",
+    "Hobbies/Gym",
+    "Untitled.canvas",
+    "_static/Pasted image 20230809164654.png",
+    "static/Pasted image 20230805173612.png",
+    "_static/golang-scheduler.png",
+    "static/Pasted image 20230805163438.png",
     "Software Engineer Interview/topics/media/testing-pyramid.png",
     "Software Engineer Interview/topics/media/sql-joins.png",
     "Software Engineer Interview/topics/media/sql-funcs.png",

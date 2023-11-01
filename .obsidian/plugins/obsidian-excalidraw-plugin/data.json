@@ -1,8 +1,8 @@
 {
-  "folder": "Excalidraw",
+  "folder": "_excalidraw",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "Excalidraw/Template.excalidraw",
-  "scriptFolderPath": "Excalidraw/Scripts",
+  "templateFilePath": "_excalidraw/Template.excalidraw",
+  "scriptFolderPath": "_excalidraw/Scripts",
   "compress": false,
   "autosave": true,
   "autosaveInterval": 15000,
@@ -23,7 +23,7 @@
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
-  "matchThemeAlways": false,
+  "matchThemeAlways": true,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
   "defaultPenMode": "never",
@@ -72,7 +72,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.12",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.27",
     "libraryItems": []
   },
   "imageElementNotice": true,

@@ -1,4 +1,5 @@
 ## Personal projects
+
 - Бот, который присылает погоду на завтра: Golang
 - ML и баскетбол
 - Solver for Linear equations: С++
