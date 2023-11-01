@@ -7,8 +7,8 @@
   "showViewHeader": false,
   "enabledCssSnippets": [
     "style",
-    "dashboard",
-    "dashboard-readline"
+    "dashboard-readline",
+    "dashboard"
   ],
   "baseFontSize": 16,
   "baseFontSizeAction": false

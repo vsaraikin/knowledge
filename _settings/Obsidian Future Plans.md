@@ -16,8 +16,8 @@
 
 ## Inspiration:
 
-[Building a USEFUL Dashboard in Obsidian - YouTube](https://www.youtube.com/watch?v=AatZl1Z_n-g)
-[Site Unreachable](https://www.youtube.com/watch?v=P_SXTUiA-9Y&t=178s)
+- [Building a USEFUL Dashboard in Obsidian - YouTube](https://www.youtube.com/watch?v=AatZl1Z_n-g)
+- [Site Unreachable](https://www.youtube.com/watch?v=P_SXTUiA-9Y&t=178s)
 
 перенести закладки в звездочки
 

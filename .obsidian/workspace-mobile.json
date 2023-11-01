@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-31 20.21.40.excalidraw.md",
-                "mode": "preview",
-                "source": true
+                "file": "Diary/To Do.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-31 20.21.40.excalidraw.md",
+            "file": "Diary/To Do.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-31 20.21.40.excalidraw.md",
+            "file": "Diary/To Do.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2023-10-31 20.21.40.excalidraw.md"
+            "file": "Diary/To Do.md"
           }
         }
       },
@@ -141,6 +141,32 @@
   },
   "active": "e13085c4cf5d0a8b",
   "lastOpenFiles": [
+    "Hobbies/Languages/Spanish.md",
+    "Diary/Ideas.md",
+    "Career/Recruitment/HR Interview/Behavioural Interview.md",
+    "Diary/To Do.md",
+    "Career/Learning/IT/Courses/C++ ШАД.md",
+    "Hobbies/Gym/Program.md",
+    "Hobbies/Art/Paintings.md",
+    "Hobbies/Art/Books.md",
+    "Diary/Goals.md",
+    "_settings/Settings.md",
+    "Diary/Watched Videos.md",
+    "Health/Analysis.md",
+    "Diary/Lawbook.md",
+    "Diary/Thoughts.md",
+    "Hobbies/Traveling",
+    "_excalidraw/me, myself & i.excalidraw.md",
+    "Career/Learning/IT/Backend/docs/fastapi-roadmap-artemshumeiko.pdf",
+    "Career/Learning/IT/Backend/docs",
+    "Career/Learning/IT/DevOps/Kubernetes.md",
+    "Career/Learning/IT/DevOps",
+    "Career/Learning/IT/Courses/Courses.md",
+    "Career/Learning/IT/Courses",
+    "Career/Learning/IT/Frontend/Frontend.md",
+    "Career/Learning/IT/Frontend",
+    "Career/Learning/IT/Machine Learning/Machine Learning.md",
+    "Career/Learning/IT/Machine Learning",
     "Programming Languages/Golang Interview.md",
     "Excalidraw/Drawing 2023-10-31 20.21.40.excalidraw.md",
     "Programming Languages/Python Web Frameworks.md",
@@ -149,26 +175,7 @@
     "Programming Languages/Python Interview.md",
     "fastapi-roadmap-artemshumeiko.pdf",
     "Backend Engineer/README.md",
-    "Dashboard.md",
-    "Interview/Common Behave.md",
-    "Programming Languages/JavaScript.md",
-    "Backend Engineer/SDLC.md",
-    "Programming Languages/C++ Interview.md",
-    "Interview/Behavioural Interview.md",
-    "Interview/Bio.md",
-    "Backend Engineer/Practices.md",
-    "Backend Engineer/Testing.md",
-    "Backend Engineer/Docker.md",
-    "Backend Engineer/Linux.md",
-    "Programming Languages/README.md",
-    "To-do.md",
-    "Backend Engineer/Cloud.md",
     "static/Pasted image 20230809164654.png",
-    "Interview/QnA.md",
-    "Backend Engineer/Celery and MQ.md",
-    "static/golang-scheduler.png",
-    "Interview/README.md",
-    "Backend Engineer/Databases.md",
-    "Backend Engineer/Architecture.md"
+    "static/golang-scheduler.png"
   ]
 }

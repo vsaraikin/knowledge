@@ -18,8 +18,23 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "23b36bec38ce3197",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_excalidraw/me, myself & i.excalidraw.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_excalidraw/me, myself & i.excalidraw.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_excalidraw/me, myself & i.excalidraw.md"
+                "file": "README.md"
               }
             }
           },
@@ -164,44 +179,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04201a755d83c05c",
+  "active": "23b36bec38ce3197",
   "lastOpenFiles": [
+    "Career/Learning/IT/Backend/README.md",
+    "README.md",
+    "Health/README.md",
+    "Health/Medicine.md",
+    "Health/Analysis.md",
     "_settings/Obsidian Future Plans.md",
-    "_excalidraw/me, myself & i.excalidraw.md",
     "_settings/Settings.md",
-    "Diary/To Do.md",
+    "Career/Recruitment/Resume & CV/README.md",
+    "_excalidraw/me, myself & i.excalidraw.md",
+    "_Diary/To Do.md",
+    "_Diary/Watched Videos.md",
+    "Career/Recruitment/Resume & CV/Cover Letter.md",
+    "Career/Learning/MSAI/math/graded-assignment-03.pdf",
+    "Career/Learning/MSAI/probability theory/MSAI_Prob23_HW1.pdf",
+    "Career/Learning/MSAI/README.md",
+    "Career/Learning/MSAI/algorithms/nails.py",
+    "Career/Learning/MSAI/algorithms",
+    "Career/Learning/MSAI/math/Vladimir_Saraikin_msai23_graded_assignmnet_03.ipynb",
+    "Career/Learning/MSAI/math/Vladimir Saraikin – msai23-graded-assignmnet-02.ipynb",
+    "Career/Learning/MSAI/math/README.md",
+    "Career/Learning/MSAI/math",
+    "Career/Learning/MSAI/probability theory/Vladimir_Saraikin_MSAI_Prob23_HW1.ipynb",
+    "Career/Learning/MSAI/probability theory",
+    "Career/Learning/IT/Courses/README.md",
     "To-do.md",
-    "Dashboard.md",
-    "Career/Learning/IT/Courses/Courses.md",
     "Knowledge Base/Interview.md",
     "Career/Recruitment/HR Interview/Bio.md",
     "Career/Learning/IT/DevOps/Kubernetes.md",
     "Career/Learning/IT/DevOps",
-    "Career/Recruitment/Resume & CV/Cover Letter.md",
     "Knowledge Base/Topics/Cover Letter.md",
     "Career/Learning/IT/Programming Languages/C++ Interview.md",
     "Career/Learning/IT/Courses/C++ ШАД.md",
-    "Career/Learning/IT/Courses",
     "Knowledge Base/C++ ШАД.md",
-    "Career/Learning/IT/Machine Learning",
     "Career/Learning/IT/Frontend/Frontend.md",
-    "Career/Learning/IT/Frontend",
-    "Diary/Ideas.md",
-    "Career/Learning/IT/Backend/docs",
-    "Hobbies/Languages/Spanish.md",
-    "Random/Framework boost.md",
-    "Random/System Design Interview.md",
-    "Random/Priorities.md",
+    "_Diary/Ideas.md",
     "Random/Pasted image 20230410181733.png",
-    "Career/Recruitment/HR Interview/Behavioural Interview.md",
-    "Career/Recruitment/HR Interview/README.md",
-    "Career/Recruitment/HR Interview/QnA.md",
-    "Career/Recruitment/HR Interview/Common Behave.md",
-    "_settings",
-    "Diary",
-    "Health",
-    "Hobbies/Photography",
-    "Hobbies/Gym",
     "Untitled.canvas",
     "_static/Pasted image 20230809164654.png",
     "static/Pasted image 20230805173612.png",
