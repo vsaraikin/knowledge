@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3d0c47e4c4da16",
+        "id": "9bce86ee089b4fc6",
         "type": "tabs",
         "children": [
           {
-            "id": "04201a755d83c05c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "_excalidraw/me, myself & i.excalidraw.md"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "bb5c78c74a7d69c6",
+            "id": "d04f77a3ed6216a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Health/Skincare.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Health/Skincare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Health/Skincare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Health/Skincare.md"
               }
             }
           },
@@ -158,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,44 +163,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb5c78c74a7d69c6",
+  "active": "d04f77a3ed6216a5",
   "lastOpenFiles": [
-    "Hobbies/Art/README.md",
-    "Home.md",
+    "_Diary/Code of honour.md",
+    "Health/Skincare.md",
     "_excalidraw/me, myself & i.excalidraw.md",
+    "Career/Learning/IT/Backend/Practices.md",
+    "Home.md",
     "Hobbies/README.md",
+    "Career/Learning/IT/Backend/Testing.md",
+    "Career/Learning/IT/Backend/SDLC.md",
+    "Career/Learning/IT/Backend/README.md",
+    "Hobbies/Untitled",
+    "Career/Learning/IT/Programming Languages/Python Interview.md",
+    "Career/Learning/IT/Programming Languages/Golang Interview.md",
+    "Career/Learning/README.md",
+    "Career/Learning/IT/Backend/Architecture.md",
+    "Career/Learning/IT/Backend/Databases.md",
+    "Career/Learning/IT/Backend/Web and Networks.md",
+    "Career/Learning/IT/Backend/Distributed Systems.md",
+    "Hobbies/Art/README.md",
     "Career/Recruitment/README.md",
     "Career/Recruitment/HR Interview/README.md",
     "Career/Recruitment/Past Interviews/README.md",
     "Random/Framework boost.md",
     "Career/Learning/Finance/README.md",
-    "Career/Learning/README.md",
     "Health/README.md",
     "_settings/Obsidian Future Plans.md",
     "untitled folder",
-    "Career/Learning/IT/Backend/README.md",
     "Health/Medicine.md",
     "Health/Analysis.md",
-    "_settings/Settings.md",
-    "Career/Recruitment/Resume & CV/README.md",
-    "_Diary/To Do.md",
-    "_Diary/Watched Videos.md",
-    "Career/Recruitment/Resume & CV/Cover Letter.md",
     "Career/Learning/MSAI/math/graded-assignment-03.pdf",
     "Career/Learning/MSAI/probability theory/MSAI_Prob23_HW1.pdf",
-    "Career/Learning/MSAI/README.md",
     "Career/Learning/MSAI/algorithms/nails.py",
     "Career/Learning/MSAI/algorithms",
     "Career/Learning/MSAI/math/Vladimir_Saraikin_msai23_graded_assignmnet_03.ipynb",
     "Career/Learning/MSAI/math/Vladimir Saraikin – msai23-graded-assignmnet-02.ipynb",
-    "Career/Learning/MSAI/math/README.md",
     "Career/Learning/MSAI/math",
     "Career/Learning/MSAI/probability theory/Vladimir_Saraikin_MSAI_Prob23_HW1.ipynb",
-    "Career/Learning/MSAI/probability theory",
-    "Career/Learning/IT/Courses/README.md",
-    "To-do.md",
-    "Knowledge Base/Interview.md",
-    "Career/Recruitment/HR Interview/Bio.md",
     "Random/Pasted image 20230410181733.png",
     "Untitled.canvas",
     "_static/Pasted image 20230809164654.png",

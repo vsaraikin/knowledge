@@ -1,7 +1,3 @@
----
-quickshare-date: 2023-08-11 18:22:28
-quickshare-url: "https://noteshare.space/note/cll6sqqni327501mwd3gga7hw#G2/Jo6WECYNrazljG6p74KhRVzkvwMOuVnkNKNkypXI"
----
 # Python Interview
 
 - [Python Interview Guide](#python-interview-guide)
