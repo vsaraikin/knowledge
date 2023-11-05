@@ -32,3 +32,8 @@
 6. How to organise a website?
 	1. [Fetching Title#0d1a](https://okhlopkov.com/how-to-i-use-my-personal-domain/)
 7. Add README of my whole system – like a dashboard which will be supported in github
+
+## Plugins
+
+1. obsidian://show-plugin?id=automatic-table-of-contents
+2. 

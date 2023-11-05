@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Learning/IT/Backend/Web and Networks.md",
-                "mode": "preview",
+                "file": "Hobbies/Gym/Progress.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Career/Learning/IT/Backend/Web and Networks.md",
+            "file": "Hobbies/Gym/Progress.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Career/Learning/IT/Backend/Web and Networks.md",
+            "file": "Hobbies/Gym/Progress.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Career/Learning/IT/Backend/Web and Networks.md"
+            "file": "Hobbies/Gym/Progress.md"
           }
         }
       },
@@ -131,6 +131,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -141,9 +142,12 @@
   },
   "active": "e13085c4cf5d0a8b",
   "lastOpenFiles": [
+    "_excalidraw/me, myself & i.excalidraw.md",
+    "Career/Learning/IT/Backend/Web and Networks.md",
+    "Health/Skincare.md",
+    "Hobbies/Gym/Progress.md",
     "Career/Learning/IT/Backend/README.md",
     "Home.md",
-    "_excalidraw/me, myself & i.excalidraw.md",
     "Career/Recruitment/README.md",
     "Hobbies/Art/README.md",
     "Career/Recruitment/Resume & CV/README.md",
@@ -164,9 +168,6 @@
     "Hobbies/Art/Paintings.md",
     "Hobbies/Art/Books.md",
     "Diary/Goals.md",
-    "_settings/Settings.md",
-    "Diary/Watched Videos.md",
-    "Diary/Lawbook.md",
     "Hobbies/Traveling",
     "Career/Learning/IT/Backend/docs/fastapi-roadmap-artemshumeiko.pdf",
     "Career/Learning/IT/Backend/docs",

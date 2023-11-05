@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9bce86ee089b4fc6",
+        "id": "ea6cdbf74641ae28",
         "type": "tabs",
         "children": [
           {
-            "id": "d04f77a3ed6216a5",
+            "id": "5429835fe4523b14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health/Skincare.md",
+                "file": "Hobbies/Gym/Progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Health/Skincare.md",
+                "file": "Hobbies/Gym/Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Health/Skincare.md",
+                "file": "Hobbies/Gym/Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Health/Skincare.md"
+                "file": "Hobbies/Gym/Progress.md"
               }
             }
           },
@@ -163,10 +163,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d04f77a3ed6216a5",
+  "active": "5429835fe4523b14",
   "lastOpenFiles": [
-    "_Diary/Code of honour.md",
+    "Hobbies/Gym/Program.md",
+    "Hobbies/Gym/Progress.md",
+    "_settings/Obsidian Future Plans.md",
+    "_static/Pasted image 20230809164654.png",
+    "_static/Pasted image 20231105095850.png",
+    "_Diary/Watched Videos.md",
+    "Untitled.md",
+    "Career/Learning/IT/Programming Languages/Golang Interview.md",
     "Health/Skincare.md",
+    "_Diary/Code of honour.md",
     "_excalidraw/me, myself & i.excalidraw.md",
     "Career/Learning/IT/Backend/Practices.md",
     "Home.md",
@@ -176,7 +184,6 @@
     "Career/Learning/IT/Backend/README.md",
     "Hobbies/Untitled",
     "Career/Learning/IT/Programming Languages/Python Interview.md",
-    "Career/Learning/IT/Programming Languages/Golang Interview.md",
     "Career/Learning/README.md",
     "Career/Learning/IT/Backend/Architecture.md",
     "Career/Learning/IT/Backend/Databases.md",
@@ -187,12 +194,7 @@
     "Career/Recruitment/HR Interview/README.md",
     "Career/Recruitment/Past Interviews/README.md",
     "Random/Framework boost.md",
-    "Career/Learning/Finance/README.md",
-    "Health/README.md",
-    "_settings/Obsidian Future Plans.md",
     "untitled folder",
-    "Health/Medicine.md",
-    "Health/Analysis.md",
     "Career/Learning/MSAI/math/graded-assignment-03.pdf",
     "Career/Learning/MSAI/probability theory/MSAI_Prob23_HW1.pdf",
     "Career/Learning/MSAI/algorithms/nails.py",
@@ -203,14 +205,12 @@
     "Career/Learning/MSAI/probability theory/Vladimir_Saraikin_MSAI_Prob23_HW1.ipynb",
     "Random/Pasted image 20230410181733.png",
     "Untitled.canvas",
-    "_static/Pasted image 20230809164654.png",
     "static/Pasted image 20230805173612.png",
     "_static/golang-scheduler.png",
     "static/Pasted image 20230805163438.png",
     "Software Engineer Interview/topics/media/testing-pyramid.png",
     "Software Engineer Interview/topics/media/sql-joins.png",
     "Software Engineer Interview/topics/media/sql-funcs.png",
-    "Software Engineer Interview/topics/media/prototype.png",
-    "Software Engineer Interview/topics/media/mro.png"
+    "Software Engineer Interview/topics/media/prototype.png"
   ]
 }
