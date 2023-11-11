@@ -79,3 +79,8 @@
 **[Стратегия](https://refactoring.guru/ru/design-patterns/strategy)** — это поведенческий паттерн, выносит набор алгоритмов в собственные классы и делает их взаимозаменимыми.
 
 [Code.](https://refactoring.guru/ru/design-patterns/strategy/python/example)
+
+
+
+[Зачем нужен паттерн database per service | Эйч Навыки | Менторство по Go - YouTube](https://www.youtube.com/watch?v=XefGw2hO3kI)
+[Собеседование на Go-разработчика, System Design - YouTube](https://www.youtube.com/watch?v=cTHGqKgKBUA)
