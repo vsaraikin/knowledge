@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Gym/Program.md",
-                "mode": "source",
+                "file": "Career/Learning/IT/Backend/Redis.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hobbies/Gym/Program.md",
+            "file": "Career/Learning/IT/Backend/Redis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Hobbies/Gym/Program.md",
+            "file": "Career/Learning/IT/Backend/Redis.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Hobbies/Gym/Program.md"
+            "file": "Career/Learning/IT/Backend/Redis.md"
           }
         }
       },
@@ -142,8 +142,19 @@
   },
   "active": "e13085c4cf5d0a8b",
   "lastOpenFiles": [
-    "Hobbies/Gym/Progress.md",
+    "Hobbies/Art/books/Три мушкетера.md",
+    "Career/Learning/IT/Backend/Redis.md",
+    "_static/redis-replicas.png",
+    "Career/Learning/IT/Backend/MQ & Celery.md",
+    "Hobbies/Mythology/Scandinavian.md",
+    "Hobbies/My website/readme.md",
+    "Hobbies/Mythology/readme.md",
     "Hobbies/Gym/Program.md",
+    "Hobbies/Art/books/book_template_art.md",
+    "Hobbies/Art/books/Портрет Дориана Грея.md",
+    "Hobbies/Art/books/book_template_tech.md",
+    "Hobbies/Art/Films.md",
+    "Hobbies/Gym/Progress.md",
     "_excalidraw/me, myself & i.excalidraw.md",
     "Career/Learning/IT/Backend/Web and Networks.md",
     "Health/Skincare.md",
@@ -158,16 +169,6 @@
     "Career/Learning/README.md",
     "Health/Analysis.md",
     "Health/Medicine.md",
-    "Career/Recruitment/Past Interviews/README.md",
-    "Career/Learning/Finance/README.md",
-    "Hobbies/Languages/Spanish.md",
-    "Diary/Ideas.md",
-    "Career/Recruitment/HR Interview/Behavioural Interview.md",
-    "Diary/To Do.md",
-    "Career/Learning/IT/Courses/C++ ШАД.md",
-    "Hobbies/Art/Paintings.md",
-    "Hobbies/Art/Books.md",
-    "Diary/Goals.md",
     "Hobbies/Traveling",
     "Career/Learning/IT/Backend/docs/fastapi-roadmap-artemshumeiko.pdf",
     "Career/Learning/IT/Backend/docs",

@@ -1,12 +1,5 @@
 # Docker
 
-- [Images comparison](#images-comparison)
-  * [**stretch/buster/jessie**](#stretchbusterjessie)
-  * [-**slim**](#-slim)
-  * [-**alpine**](#-alpine)
-  * [Network](#network)
-  * [Ports / Expose](#ports--expose)
-
 ## Images comparison
 
 ![Untitled](docker-images-comp.png)

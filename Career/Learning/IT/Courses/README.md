@@ -15,3 +15,4 @@
 
 Akuna Capital Options 101
 Bloomberg Market Concepts
+Redis certification

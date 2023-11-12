@@ -1,7 +1,7 @@
 # Backend Engineer Guideline
 
 - [Architecture](Architecture.md)
-- [Celery and MQ](Celery%20and%20MQ.md)
+- [Message Brokers](Message%20Brokers.md)
 - [Cloud](Cloud.md)
 - [Databases](Databases.md)
 - [Docker](Docker.md)
