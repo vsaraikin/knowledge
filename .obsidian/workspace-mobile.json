@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Learning/IT/Backend/Redis.md",
-                "mode": "preview",
+                "file": "Hobbies/Gym/Progress.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Интерфейс ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,8 +85,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Career/Learning/IT/Backend/Redis.md",
-            "collapseAll": false,
+            "file": "Hobbies/Gym/Progress.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Career/Learning/IT/Backend/Redis.md",
+            "file": "Hobbies/Gym/Progress.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Career/Learning/IT/Backend/Redis.md"
+            "file": "Hobbies/Gym/Progress.md"
           }
         }
       },
@@ -131,7 +131,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -140,35 +139,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e13085c4cf5d0a8b",
+  "active": "5acbe028ca38eaf4",
   "lastOpenFiles": [
-    "Hobbies/Art/books/Три мушкетера.md",
-    "Career/Learning/IT/Backend/Redis.md",
-    "_static/redis-replicas.png",
-    "Career/Learning/IT/Backend/MQ & Celery.md",
+    "_static/sql_order.png",
+    "_static/7-osi.png",
+    "_Diary/Thoughts.md",
+    "Home.md",
     "Hobbies/Mythology/Scandinavian.md",
-    "Hobbies/My website/readme.md",
-    "Hobbies/Mythology/readme.md",
-    "Hobbies/Gym/Program.md",
-    "Hobbies/Art/books/book_template_art.md",
-    "Hobbies/Art/books/Портрет Дориана Грея.md",
-    "Hobbies/Art/books/book_template_tech.md",
-    "Hobbies/Art/Films.md",
     "Hobbies/Gym/Progress.md",
     "_excalidraw/me, myself & i.excalidraw.md",
+    "_Diary/Watched Videos.md",
+    "_Diary/To Do.md",
+    "_Diary/Ideas.md",
+    "_Diary/Goals.md",
+    "_Diary/Code of honour.md",
+    "Career/Learning/IT/Backend/OZON - 15.12.2023.md",
+    "Hobbies/Gym/Program.md",
+    "Career/Learning/IT/Backend/Computer Science.md",
     "Career/Learning/IT/Backend/Web and Networks.md",
-    "Health/Skincare.md",
-    "Career/Learning/IT/Backend/README.md",
-    "Home.md",
-    "Career/Recruitment/README.md",
-    "Hobbies/Art/README.md",
-    "Career/Recruitment/Resume & CV/README.md",
-    "Hobbies/README.md",
-    "Health/README.md",
+    "Career/Learning/IT/Backend/Databases.md",
     "Career/Learning/IT/Backend/Distributed Systems.md",
-    "Career/Learning/README.md",
-    "Health/Analysis.md",
-    "Health/Medicine.md",
+    "Career/Learning/IT/Backend/Docker.md",
+    "Career/Learning/IT/Backend/Redis.md",
+    "Career/Learning/IT/Backend/Message Brokers.md",
+    "_static/Pasted image 20231114105058.png",
+    "_static/Pasted image 20231114105737.png",
+    "_static/Pasted image 20231114105514.png",
+    "Career/Learning/Finance/CFD.md",
+    "_static/Pasted image 20231114105145.png",
+    "_static/Pasted image 20231114105218.png",
+    "Career/Learning/IT/Backend/Celery.md",
+    "Hobbies/Art/books/Три мушкетера.md",
+    "_static/redis-replicas.png",
+    "Career/Learning/IT/Backend/MQ & Celery.md",
+    "Hobbies/My website/readme.md",
+    "Hobbies/Mythology/readme.md",
     "Hobbies/Traveling",
     "Career/Learning/IT/Backend/docs/fastapi-roadmap-artemshumeiko.pdf",
     "Career/Learning/IT/Backend/docs",

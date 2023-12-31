@@ -4,7 +4,15 @@
 
 ## Machine Learning
 ## Computer Science
-### Other
+
+## Software Engineering
+
+[PostgreSQL для новичков - Академия Selectel](https://selectel.ru/blog/courses/postgresql-for-beginners/)
+[Linux: горячие клавиши и команды - Академия Selectel](https://selectel.ru/blog/courses/linux-hotkeys-and-commands/)
+[Как работают сетевые протоколы - Академия Selectel](https://selectel.ru/blog/courses/network-protocols/)
+[Первые шаги в Kubernetes - Академия Selectel](https://selectel.ru/blog/courses/dive-into-kubernetes/)
+## Other
+
 [Self-Study Plan for Becoming a Quantitative Developer | QuantStart](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer/)
 [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science)
 [https://github.com/zhashkevych/awesome-backend](https://github.com/zhashkevych/awesome-backend)

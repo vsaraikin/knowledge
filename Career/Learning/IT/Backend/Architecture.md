@@ -80,7 +80,13 @@
 
 [Code.](https://refactoring.guru/ru/design-patterns/strategy/python/example)
 
+## Паттерны микросервисов
 
+### Saga
+
+### Outbox
+
+[Все о микросервисах](https://microservices.io/)
 
 [Зачем нужен паттерн database per service | Эйч Навыки | Менторство по Go - YouTube](https://www.youtube.com/watch?v=XefGw2hO3kI)
 [Собеседование на Go-разработчика, System Design - YouTube](https://www.youtube.com/watch?v=cTHGqKgKBUA)

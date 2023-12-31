@@ -1,5 +1,5 @@
 # C++ Interview
-## **Общие вопросы**
+## Общие вопросы
 
 ### Различия разных стандартов?
 
@@ -15,7 +15,7 @@ ASCII — это таблица кодировки символов, в кото
 
 ASCII encodes symbols, digits, letters, etc., whereas Unicode encodes special texts from different languages, letters, symbols, etc. It can be said that ASCII is a subset of the Unicode encoding scheme.
 
-## **Метапрограммирование**
+## Метапрограммирование
 
 ### Что такое шаблонный класс и шаблонная функция?
 

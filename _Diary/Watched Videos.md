@@ -11,3 +11,8 @@
 4. [Ты построил карьеру. А что дальше? - YouTube](https://www.youtube.com/watch?v=GnMEfcaT84c) 
 	- Прокачивайся в разных сферах
 5. [Как БЫСТРО ВЫРАСТИТЬ канал на YouTube в 2023 году](https://www.youtube.com/watch?v=KbZepdPRy8Y)
+6. [Site Unreachable](https://www.youtube.com/watch?v=BjARLkPyR10)
+	- Зависимости
+	- Лишние вещи (машина и тд)
+	- Воспалительные процессы
+	
