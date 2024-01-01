@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Learning/IT/Backend/Web and Networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffef73c1524d41c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/Learning/IT/Backend/Web and Networks.md",
+                "file": "Career/Learning/IT/Programming Languages/Golang Interview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career/Learning/IT/Backend/Web and Networks.md",
+                "file": "Career/Learning/IT/Programming Languages/Golang Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career/Learning/IT/Backend/Web and Networks.md",
+                "file": "Career/Learning/IT/Programming Languages/Golang Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career/Learning/IT/Backend/Web and Networks.md"
+                "file": "Career/Learning/IT/Programming Languages/Golang Interview.md"
               }
             }
           },
@@ -175,10 +162,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffef73c1524d41c0",
+  "active": "e2614d73bcc38456",
   "lastOpenFiles": [
+    "Career/Learning/IT/Backend/Linux.md",
     "Career/Learning/IT/Backend/Databases.md",
+    "Career/Learning/IT/Backend/Distributed Systems.md",
     "Career/Learning/IT/Backend/Web and Networks.md",
+    "Career/Learning/IT/Backend/Testing.md",
+    "Career/Learning/IT/Backend/SDLC.md",
+    "Career/Learning/IT/Backend/Cloud.md",
+    "_excalidraw/me, myself & i.excalidraw.md",
     "Career/Learning/IT/DevOps/Kubernetes.md",
     "_Diary/Ideas.md",
     "Career/Learning/IT/Backend/Architecture.md",
@@ -186,7 +179,6 @@
     "Career/Learning/IT/Backend/Practices.md",
     "Career/Learning/IT/Backend/Docker.md",
     "Career/Learning/IT/Backend/Redis.md",
-    "Career/Learning/IT/Backend/Distributed Systems.md",
     "Career/Learning/IT/Backend/README.md",
     "_static/osi-7l.png",
     "Career/Learning/IT/Courses/README.md",
@@ -195,17 +187,12 @@
     "_static/7-osi.png",
     "_static/sql_order.png",
     "Career/Learning/IT/Courses/C++ ШАД.md",
-    "Career/Learning/IT/Backend/Cloud.md",
     "Career/Learning/IT/Backend/Celery.md",
-    "Career/Learning/IT/Backend/Linux.md",
-    "Career/Learning/IT/Backend/SDLC.md",
-    "Career/Learning/IT/Backend/Testing.md",
     "_Diary/Goals.md",
     "Hobbies/Gym/Progress.md",
     "Hobbies/Gym/Program.md",
     "_Diary/Watched Videos.md",
     "Career/Recruitment/HR Interview/Bio.md",
-    "Career/Recruitment/HR Interview/Common Behave.md",
     "_static/Pasted image 20231114105737.png",
     "_static/Pasted image 20231114105514.png",
     "_static/Pasted image 20231114105218.png",
