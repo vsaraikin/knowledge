@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hobbies/Gym/Progress.md",
+                "file": "Career/Learning/IT/Programming Languages/Golang Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hobbies/Gym/Progress.md",
+            "file": "Career/Learning/IT/Programming Languages/Golang Interview.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Hobbies/Gym/Progress.md",
+            "file": "Career/Learning/IT/Programming Languages/Golang Interview.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Hobbies/Gym/Progress.md"
+            "file": "Career/Learning/IT/Programming Languages/Golang Interview.md"
           }
         }
       },
@@ -139,14 +139,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5acbe028ca38eaf4",
+  "active": "e13085c4cf5d0a8b",
   "lastOpenFiles": [
+    "Hobbies/Gym/Progress.md",
     "_static/sql_order.png",
     "_static/7-osi.png",
     "_Diary/Thoughts.md",
     "Home.md",
     "Hobbies/Mythology/Scandinavian.md",
-    "Hobbies/Gym/Progress.md",
     "_excalidraw/me, myself & i.excalidraw.md",
     "_Diary/Watched Videos.md",
     "_Diary/To Do.md",
