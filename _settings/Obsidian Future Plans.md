@@ -14,6 +14,7 @@
 4. Backup to Git:
 	1. Provide a tool to push by pressing one button
 5. Fix relative paths in Obsidian & Github 
+6. Write a sh script that will create .README files with certain template for each folder except root.
 
 ## Inspiration:
 

@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "8d2ded5b648a5949",
+        "id": "e10d33bf3ed8810a",
         "type": "tabs",
         "children": [
           {
-            "id": "e2614d73bcc38456",
+            "id": "14c2bcab3ca5e5c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Learning/IT/Programming Languages/Golang Interview.md",
+                "file": "Career/Learning/IT/Backend/README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4205cf385da93849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career/Learning/IT/Backend/Redis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ec612257e090ea6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kuber",
+                "query": "grpc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career/Learning/IT/Programming Languages/Golang Interview.md",
+                "file": "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career/Learning/IT/Programming Languages/Golang Interview.md",
+                "file": "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career/Learning/IT/Programming Languages/Golang Interview.md"
+                "file": "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md"
               }
             }
           },
@@ -150,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,40 +183,41 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2614d73bcc38456",
+  "active": "2ec612257e090ea6",
   "lastOpenFiles": [
-    "Career/Learning/IT/Backend/Computer Science.md",
-    "Career/Learning/IT/Programming Languages/Golang Interview.md",
-    "Career/Learning/IT/Backend/Databases.md",
-    "Career/Learning/IT/Backend/Linux.md",
-    "Career/Learning/IT/Backend/Distributed Systems.md",
-    "Career/Learning/IT/Backend/Web and Networks.md",
-    "Career/Learning/IT/Backend/Testing.md",
-    "Career/Learning/IT/Backend/SDLC.md",
-    "Career/Learning/IT/Backend/Cloud.md",
-    "_excalidraw/me, myself & i.excalidraw.md",
-    "Career/Learning/IT/DevOps/Kubernetes.md",
-    "_Diary/Ideas.md",
-    "Career/Learning/IT/Backend/Architecture.md",
-    "Career/Learning/IT/Backend/Message Brokers.md",
-    "Career/Learning/IT/Backend/Practices.md",
-    "Career/Learning/IT/Backend/Docker.md",
+    "Golang Interview.pdf",
+    "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md",
     "Career/Learning/IT/Backend/Redis.md",
     "Career/Learning/IT/Backend/README.md",
+    "Career/Learning/IT/Backend/SDLC.md",
+    "Career/Learning/IT/Backend/Testing.md",
+    "Career/Learning/IT/Backend/System Design Interview.md",
+    "Career/Learning/Finance/README.md",
+    "Career/Learning/IT/Backend/Web and Networks.md",
+    "Career/Learning/README.md",
+    "_settings/Obsidian Future Plans.md",
+    "Home.md",
+    "Career/Learning/Finance/CFD.md",
+    "Career/Learning/Finance/_about_.md",
+    "Career/Learning/IT/Backend/Message Brokers.md",
+    "Career/Learning/IT/Backend/Distributed Systems.md",
+    "Career/Learning/IT/Backend/Docker.md",
+    "Career/Learning/IT/Backend/Linux.md",
+    "Career/Recruitment/HR Interview/QnA.md",
+    "Career/Recruitment/HR Interview/Common Behave.md",
+    "Career/Recruitment/README.md",
+    "Career/Recruitment/Past Interviews/README.md",
+    "Career/Learning/IT/Backend/Databases.md",
+    "Career/Learning/IT/Backend/Practices.md",
+    "Career/Learning/IT/Backend/Computer Science.md",
+    "Career/Learning/IT/Backend/Cloud.md",
     "_static/osi-7l.png",
-    "Career/Learning/IT/Courses/README.md",
-    "Career/Recruitment/HR Interview/Behavioural Interview.md",
     "_static/7-osi.png",
     "_static/sql_order.png",
-    "Career/Learning/IT/Courses/C++ ШАД.md",
-    "Career/Learning/IT/Backend/Celery.md",
-    "_Diary/Goals.md",
-    "Hobbies/Gym/Progress.md",
-    "Hobbies/Gym/Program.md",
-    "_Diary/Watched Videos.md",
     "_static/Pasted image 20231114105737.png",
     "_static/Pasted image 20231114105514.png",
     "_static/Pasted image 20231114105218.png",
@@ -209,7 +234,6 @@
     "Career/Learning/MSAI/algorithms/nails.py",
     "Career/Learning/MSAI/algorithms",
     "Career/Learning/MSAI/math/Vladimir_Saraikin_msai23_graded_assignmnet_03.ipynb",
-    "Career/Learning/MSAI/math/Vladimir Saraikin – msai23-graded-assignmnet-02.ipynb",
     "Untitled.canvas"
   ]
 }
