@@ -33,7 +33,7 @@ def create_readme_for_directory(dir_path, parent_path):
 
         # Добавление файлов в содержимое .readme, исключая .readme файл
         for file in files:
-            if file != '.readme':
+            if file != '.readme.md':
                 readme_content.append(f'- [{file}]({encode_path(file)})')
 
         # Добавление поддиректорий в содержимое .readme
