@@ -3,11 +3,12 @@
   "obsidian-emoji-toolbar",
   "url-into-selection",
   "obsidian-outliner",
-  "settings-search",
   "obsidian-auto-link-title",
   "table-editor-obsidian",
   "obsidian-quickshare",
   "obsidian-smart-typography",
   "markdown-table-of-contents",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "settings-search",
+  "obsidian-paste-image-rename"
 ]

@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e10d33bf3ed8810a",
+        "id": "b6416d2385eb759b",
         "type": "tabs",
         "children": [
           {
-            "id": "14c2bcab3ca5e5c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/Learning/IT/Backend/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4205cf385da93849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/Learning/IT/Backend/Redis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ec612257e090ea6",
+            "id": "27f93f85e3508d96",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -40,9 +16,21 @@
                 "file": "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "961373c201d6ffad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career/Learning/IT/Backend/Message Brokers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "grpc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 282.5
   },
   "right": {
     "id": "c0b8c491b5e952f5",
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md",
+                "file": "Career/Learning/IT/Backend/Message Brokers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md",
+                "file": "Career/Learning/IT/Backend/Message Brokers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md"
+                "file": "Career/Learning/IT/Backend/Message Brokers.md"
               }
             }
           },
@@ -173,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5,
-    "collapsed": true
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,53 +174,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ec612257e090ea6",
+  "active": "961373c201d6ffad",
   "lastOpenFiles": [
-    "Golang Interview.pdf",
-    "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md",
-    "Career/Learning/IT/Backend/Redis.md",
-    "Career/Learning/IT/Backend/README.md",
-    "Career/Learning/IT/Backend/SDLC.md",
-    "Career/Learning/IT/Backend/Testing.md",
-    "Career/Learning/IT/Backend/System Design Interview.md",
-    "Career/Learning/Finance/README.md",
-    "Career/Learning/IT/Backend/Web and Networks.md",
-    "Career/Learning/README.md",
-    "_settings/Obsidian Future Plans.md",
     "Home.md",
-    "Career/Learning/Finance/CFD.md",
-    "Career/Learning/Finance/_about_.md",
     "Career/Learning/IT/Backend/Message Brokers.md",
+    "Career/Learning/IT/Backend/Web and Networks.md",
+    "main.py",
     "Career/Learning/IT/Backend/Distributed Systems.md",
-    "Career/Learning/IT/Backend/Docker.md",
-    "Career/Learning/IT/Backend/Linux.md",
-    "Career/Recruitment/HR Interview/QnA.md",
-    "Career/Recruitment/HR Interview/Common Behave.md",
-    "Career/Recruitment/README.md",
-    "Career/Recruitment/Past Interviews/README.md",
+    "_static/kafka-core.png",
+    "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md",
     "Career/Learning/IT/Backend/Databases.md",
-    "Career/Learning/IT/Backend/Practices.md",
-    "Career/Learning/IT/Backend/Computer Science.md",
-    "Career/Learning/IT/Backend/Cloud.md",
+    "_static/kafka-partitions-2-consumer-3.webp",
+    "_static/kafka-2-partitions-2-consumers.png",
+    "_static/Partition 0.png",
+    "_static/Pasted image 20240210172104.png",
+    "Career/Learning/IT/Backend/docs/fastapi-roadmap.pdf",
+    "Career/Learning/IT/Programming Languages/C++ Interview.md",
+    "Career/Learning/IT/Backend/SDLC.md",
+    "Career/Learning/IT/Backend/Redis.md",
+    "Career/Recruitment/HR Interview/README.md",
+    "Career/Recruitment/README.md",
+    "Career/Recruitment/Resume & CV/README.md",
+    "Career/Learning/IT/Backend/README.md",
+    "Career/Learning/Finance/README.md",
+    "_Diary/README.md",
+    "_excalidraw/README.md",
+    "_static/README.md",
+    "_settings/README.md",
+    "Random/README.md",
+    "Hobbies/Gym/README.md",
+    "Hobbies/Languages/README.md",
+    "Hobbies/Martial Arts/README.md",
+    "Hobbies/Photography/README.md",
+    "Hobbies/Art/books/README.md",
+    "Hobbies/Planes/README.md",
+    "Career/Learning/IT/Backend/docs/README.md",
+    "script2.sh",
+    "typescript",
+    "Golang Interview.pdf",
     "_static/osi-7l.png",
     "_static/7-osi.png",
     "_static/sql_order.png",
     "_static/Pasted image 20231114105737.png",
     "_static/Pasted image 20231114105514.png",
-    "_static/Pasted image 20231114105218.png",
-    "_static/Pasted image 20231114105145.png",
-    "_static/Pasted image 20231114105058.png",
-    "_static/redis-replicas.png",
-    "_static/operation-speed.png",
     "Hobbies/My website",
     "Hobbies/Mythology",
     "Hobbies/Art/books",
     "untitled folder",
     "Career/Learning/MSAI/math/graded-assignment-03.pdf",
-    "Career/Learning/MSAI/probability theory/MSAI_Prob23_HW1.pdf",
-    "Career/Learning/MSAI/algorithms/nails.py",
-    "Career/Learning/MSAI/algorithms",
-    "Career/Learning/MSAI/math/Vladimir_Saraikin_msai23_graded_assignmnet_03.ipynb",
     "Untitled.canvas"
   ]
 }

@@ -1,5 +1,20 @@
 #!/bin/bash
 
+# GC
+
+find . -name ".DS_Store" -delete
+
+# –––––––––––––––––––––NAV–––––––––––––––––––––#
+################################################
+python main.py
+echo "updated navigration!"
+
+
+# –––––––––––––––––––––GIT–––––––––––––––––––––#
+################################################
+
+
+
 # Check for any unwanted files or changes
 git status
 
