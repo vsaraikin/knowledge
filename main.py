@@ -24,7 +24,7 @@ def create_readme_for_directory(dir_path, parent_path):
         files = sorted(files)
         
         readme_content = []
-        readme_path = os.path.join(root, '.readme')
+        readme_path = os.path.join(root, '.readme.md')
         
         # Получение относительного пути текущей директории относительно ее родителя
         relative_path = os.path.relpath(root, parent_path) if parent_path else '.'
@@ -38,7 +38,7 @@ def create_readme_for_directory(dir_path, parent_path):
 
         # Добавление поддиректорий в содержимое .readme
         for dir in dirs:
-            readme_content.append(f'- [{dir}]({encode_path(dir + "/.readme")})')
+            readme_content.append(f'- [{dir}]({encode_path(dir + "/.readme.md")})')
 
         # Запись содержимого в .readme файл
         with open(readme_path, 'w') as f:
