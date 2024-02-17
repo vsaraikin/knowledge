@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Learning/IT/Backend/Message Brokers.md",
+                "file": "Career/Learning/Finance/CFD.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e48639a56060733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career/Learning/IT/Backend/Message Brokers.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career/Learning/IT/Backend/Message Brokers.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career/Learning/IT/Backend/Message Brokers.md"
+                "file": "Home.md"
               }
             }
           },
@@ -174,9 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "961373c201d6ffad",
+  "active": "2e48639a56060733",
   "lastOpenFiles": [
     "Home.md",
+    "Career/Learning/Finance/CFD.md",
     "Career/Learning/IT/Backend/Message Brokers.md",
     "Career/Learning/IT/Backend/Web and Networks.md",
     "main.py",
@@ -208,7 +221,6 @@
     "Hobbies/Photography/README.md",
     "Hobbies/Art/books/README.md",
     "Hobbies/Planes/README.md",
-    "Career/Learning/IT/Backend/docs/README.md",
     "script2.sh",
     "typescript",
     "Golang Interview.pdf",

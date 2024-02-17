@@ -5,5 +5,5 @@ cssclass: dashboard
 
 ## Career
 
-- ### [Learning](Career/Learning/README.md)
-	- [IT](Career/Learning/IT/Backend/README.md)
+- ### [Learning](Career/Learning/.readme.md)
+	- [IT](Career/Learning/IT/Backend/.readme.md)
