@@ -2,7 +2,7 @@
 
 ## Images comparison
 
-![Untitled](docker-images-comp.png)
+![docker-images-comp](static/docker-images-comp.png)
 
 ### **stretch/buster/jessie**
 

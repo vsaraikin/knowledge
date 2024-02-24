@@ -6,8 +6,8 @@ find . -name ".DS_Store" -delete
 
 # –––––––––––––––––––––NAV–––––––––––––––––––––#
 ################################################
-python main.py
-echo "updated navigration!"
+# python main.py
+# echo "updated navigration!"
 
 
 # –––––––––––––––––––––GIT–––––––––––––––––––––#

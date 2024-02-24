@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b6416d2385eb759b",
+        "id": "6890c1cd4eb14a70",
         "type": "tabs",
         "children": [
           {
-            "id": "27f93f85e3508d96",
+            "id": "6cc3eea6b0f52079",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "961373c201d6ffad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/Learning/Finance/CFD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e48639a56060733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,12 +137,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 346.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,54 +155,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e48639a56060733",
+  "active": "7dd11c6dd1b58e61",
   "lastOpenFiles": [
-    "Home.md",
-    "Career/Learning/Finance/CFD.md",
-    "Career/Learning/IT/Backend/Message Brokers.md",
-    "Career/Learning/IT/Backend/Web and Networks.md",
-    "main.py",
-    "Career/Learning/IT/Backend/Distributed Systems.md",
-    "_static/kafka-core.png",
-    "Career/Learning/IT/Backend/docs/roadmap.excalidraw.md",
+    "Career/Learning/IT/Backend/static/roadmap.excalidraw.md",
+    "Career/Learning/IT/Backend/static/Partition 0.png",
+    "Career/Learning/IT/Backend/static/Pasted image 20231114105058.png",
+    "Career/Learning/IT/Backend/static/Pasted image 20231114105145.png",
+    "Career/Learning/IT/Backend/static/Pasted image 20231114105218.png",
+    "Career/Learning/IT/Backend/static/Pasted image 20231114105514.png",
+    "Career/Learning/IT/Backend/static/Pasted image 20231114105737.png",
+    "Career/Learning/IT/Backend/static/Pasted image 20240210172104.png",
+    "Career/Learning/IT/Backend/static/kafka-2-partitions-2-consumers.png",
     "Career/Learning/IT/Backend/Databases.md",
-    "_static/kafka-partitions-2-consumer-3.webp",
-    "_static/kafka-2-partitions-2-consumers.png",
-    "_static/Partition 0.png",
-    "_static/Pasted image 20240210172104.png",
-    "Career/Learning/IT/Backend/docs/fastapi-roadmap.pdf",
-    "Career/Learning/IT/Programming Languages/C++ Interview.md",
-    "Career/Learning/IT/Backend/SDLC.md",
+    "Career/Learning/IT/Backend/Distributed Systems.md",
+    "Career/Learning/IT/Backend/Docker.md",
+    "Career/Learning/IT/Backend/Linux.md",
+    "Career/Learning/IT/Backend/Message Brokers.md",
+    "Career/Learning/IT/Backend/Practices.md",
     "Career/Learning/IT/Backend/Redis.md",
-    "Career/Recruitment/HR Interview/README.md",
-    "Career/Recruitment/README.md",
-    "Career/Recruitment/Resume & CV/README.md",
-    "Career/Learning/IT/Backend/README.md",
-    "Career/Learning/Finance/README.md",
-    "_Diary/README.md",
-    "_excalidraw/README.md",
-    "_static/README.md",
-    "_settings/README.md",
-    "Random/README.md",
-    "Hobbies/Gym/README.md",
-    "Hobbies/Languages/README.md",
-    "Hobbies/Martial Arts/README.md",
-    "Hobbies/Photography/README.md",
-    "Hobbies/Art/books/README.md",
-    "Hobbies/Planes/README.md",
+    "Career/Learning/IT/Backend/SDLC.md",
+    "Career/Learning/IT/Backend/System Design Interview.md",
+    "Career/Learning/IT/Backend/static/operation-speed.png",
+    "Career/Learning/IT/Backend/Testing.md",
+    "Career/Learning/IT/Backend/Web and Networks.md",
+    "Career/Learning/IT/Backend/static/network-layers.png",
+    "Career/Learning/IT/Backend/Computer Science.md",
+    "Career/Learning/IT/Backend/Cloud.md",
+    "Career/Learning/IT/Backend/Celery.md",
+    "Career/Learning/IT/Backend/Architecture.md",
+    "_excalidraw/me, myself & i.excalidraw.md",
+    "Hobbies/Languages/1/Vocabulario.md",
+    "Hobbies/Languages/1/Gramática.md",
+    "Hobbies/Languages/Spanish.md",
+    "Hobbies/Languages/1",
+    "Career/Learning/IT/Courses/README.md",
+    "Career/Learning/IT/Courses/C++ ШАД.md",
+    "Career/Learning/IT/DevOps/Kubernetes.md",
+    "Career/Learning/IT/Programming Languages/Python Interview.md",
+    "Career/Learning/Finance/CFD.md",
+    "main.py",
+    "Career/Learning/IT/Backend/static/fastapi-roadmap.pdf",
     "script2.sh",
     "typescript",
     "Golang Interview.pdf",
-    "_static/osi-7l.png",
-    "_static/7-osi.png",
-    "_static/sql_order.png",
-    "_static/Pasted image 20231114105737.png",
-    "_static/Pasted image 20231114105514.png",
     "Hobbies/My website",
     "Hobbies/Mythology",
     "Hobbies/Art/books",
     "untitled folder",
-    "Career/Learning/MSAI/math/graded-assignment-03.pdf",
     "Untitled.canvas"
   ]
 }

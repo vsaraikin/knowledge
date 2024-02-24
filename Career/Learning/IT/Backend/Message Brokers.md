@@ -48,7 +48,7 @@
 
 Продьюсеры отправляют записи в кластеры, которые хранят записи и далее отправляют их консьюмерам. Каждая нода в класетере – это брокер, который хранит данные переданные продьюсером до тех пор, пока их не вычитает консьюмер.
 
-![kafka-core](kafka-core.png)
+![kafka-core](static/kafka-core.png)
 
 ### Records
 
@@ -89,13 +89,13 @@
 
 Консьюмер группа – это набор консьюмеров, объединенных одним ID, где вся группа слушает один топик и только один консьюмер вычитывает одно сообщение.
 
-![kafka-2-partitions-2-consumers](kafka-2-partitions-2-consumers.png)
+![kafka-2-partitions-2-consumers](static/kafka-2-partitions-2-consumers.png)
 
 Если окажется, что нужно поставить третьего консьюмера, то надо ставить и третью партицию.
 
 Или же, если нужно потреблять ивент другим consumer, то нужно создать отдельную consumer group.
 
-![kafka-partitions-2-consumer-3](kafka-partitions-2-consumer-3.webp)
+![kafka-partitions-2-consumer-3](static/kafka-partitions-2-consumer-3.webp)
 
 *Reference:* [What is a consumer group in Kafka? - Coding Harbour](https://codingharbour.com/apache-kafka/what-is-a-consumer-group-in-kafka/)
 

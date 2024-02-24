@@ -1,5 +1,5 @@
 # Testing
-![Untitled](testing-pyramid.png)
+![testing-pyramid](static/testing-pyramid.png)
 
 ### Какие виды тестов есть?
 

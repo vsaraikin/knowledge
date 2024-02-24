@@ -110,6 +110,13 @@ var AutoHidePlugin = class extends import_obsidian.Plugin {
       if (evt.target.classList.contains("cm-hashtag") || evt.target.classList.contains("tag")) {
         return;
       }
+      if (evt.target.closest(".multi-select-pill-content") !== null) {
+        return;
+      }
+      const preventsClassList = ["snw-reference"];
+      if (preventsClassList.some((e) => evt.target.classList.contains(e))) {
+        return;
+      }
       if (evt.target.classList.contains("view-header-breadcrumb")) {
         return;
       }

@@ -46,13 +46,13 @@
 
 **[Абстрактная фабрика](https://refactoring.guru/ru/design-patterns/abstract-factory)** — это порождающий паттерн проектирования, который позволяет создавать семейства связанных объектов, не привязываясь к конкретным классам создаваемых объектов.
 
-![Architecture%2031d0cc51b6264ed0915db4f596a9f1f3/Untitled%201.png](abstract-fabric.png)
+![abstract-factory](static/abstract-fabric.png)
 
 [Code](https://refactoring.guru/ru/design-patterns/abstract-factory/python/example)
 
 **[Прототип](https://refactoring.guru/ru/design-patterns/prototype)** — это порождающий паттерн проектирования, который позволяет копировать объекты, не вдаваясь в подробности их реализации.
 
-![Architecture%2031d0cc51b6264ed0915db4f596a9f1f3/Untitled%201.png](prototype.png)
+![prototype](static/prototype.png)
 
 [Code](https://refactoring.guru/ru/design-patterns/prototype)
 
