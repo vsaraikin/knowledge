@@ -11,11 +11,9 @@
             "id": "f9afb27ca6cda7a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Diary/me, myself & i.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Diary/me, myself & i.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Diary/me, myself & i.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Diary/me, myself & i.excalidraw.md"
               }
             }
           },
@@ -141,16 +139,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9afb27ca6cda7a4",
+  "active": "7dd11c6dd1b58e61",
   "lastOpenFiles": [
-    "Diary/me, myself & i.excalidraw.md",
+    "Gym/Progress.md",
+    "Gym/Program.md",
+    "Gym",
     "Finance/Crypto.md",
+    "Finance",
+    "Index.md",
+    "Diary/me, myself & i.excalidraw.md",
     "Finance/CFD.md",
     "Health/Skincare.md",
     "Health/Medicine.md",
     "Health/Analysis.md",
-    "Gym/Progress.md",
-    "Gym/Program.md",
     "Hobbies/Art/Books.md",
     "Hobbies/Art/books/Три мушкетера.md",
     "Hobbies/Art/books/Портрет Дориана Грея.md",
@@ -167,8 +168,6 @@
     "Hobbies/Mythology/Scandinavian.md",
     "IT/Courses.md",
     "Hobbies/Planes/Planes.md",
-    "Spanish/Grammar.md",
-    "IT/Backend/Architecture.md",
     "Career/Learning/IT/Backend",
     "Career/Learning/IT",
     "Career/Learning",
@@ -188,8 +187,6 @@
     "Spanish/static/spanish-keyboard.png",
     "IT/Backend/static/Partition 0.png",
     "Career/Learning/IT/Backend/static/Pasted image 20231114105058.png",
-    "Hobbies/Languages/1",
-    "main.py",
-    "IT/Backend/static/fastapi-roadmap.pdf"
+    "Hobbies/Languages/1"
   ]
 }
