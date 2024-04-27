@@ -1,14 +1,16 @@
 [
   "obsidian-search-everywhere-plugin",
-  "obsidian-emoji-toolbar",
   "url-into-selection",
   "obsidian-outliner",
   "obsidian-auto-link-title",
   "table-editor-obsidian",
-  "obsidian-quickshare",
   "obsidian-smart-typography",
-  "markdown-table-of-contents",
   "obsidian-excalidraw-plugin",
   "settings-search",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "obsidian-hider",
+  "automatic-table-of-contents",
+  "obsidian-underline"
 ]

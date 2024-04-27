@@ -4,21 +4,13 @@
 
 find . -name ".DS_Store" -delete
 
-# –––––––––––––––––––––NAV–––––––––––––––––––––#
-################################################
-# python main.py
-# echo "updated navigration!"
-
-
 # –––––––––––––––––––––GIT–––––––––––––––––––––#
 ################################################
 
 
 
-# Check for any unwanted files or changes
 git status
 
-# Prompt the user to continue
 read -p "Continue with commit? (y/n): " choice
 
 if [ "$choice" == "y" ] || [ "$choice" == "Y" ]; then
@@ -27,7 +19,7 @@ if [ "$choice" == "y" ] || [ "$choice" == "Y" ]; then
     tail -n +4 Home.md > .README.md
     echo "Updated README"
 
-    git add .  # Consider being more explicit here
+    git add .
     git commit -m "vault backup ${d}" 
     git push
 else

@@ -1,5 +1,0 @@
-1) [GitHub - justdjango/django-simple-ecommerce: A simple e-commerce website](https://github.com/justdjango/django-simple-ecommerce)
-2) [How to Build an E-commerce Website with Django and Python - YouTube](https://www.youtube.com/watch?v=YZvRrldjf1Y)
-3) [GitHub - justdjango/django-ecommerce: An e-commerce website built with Django](https://github.com/justdjango/django-ecommerce)
-4) [Build an ecommerce website with Django and React // Part 1 - Moving to React - YouTube](https://www.youtube.com/watch?v=RG_Y7lIDXPM&list=PLLRM7ROnmA9Hp8j_1NRCK6pNVFfSf4G7a)
-5) [GitHub - justdjango/django-react-ecommerce: An e-commerce web app built with Django and React](https://github.com/justdjango/django-react-ecommerce)

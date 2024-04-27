@@ -234,6 +234,58 @@ entregar
 убийство
 
 
+### Class 5
+
+agotado
+luchar -  
+orden
+retroceder
+abancar
+semejante
+ponerse - se puesto
+aquellos dia
+separarse - 
+reparar
+gastar
+volver a
+bajar del coche спуститься с машины
+subir el coche 
+vacio
+carretera
+perseguir
+traer
+llevar
+ajorrar
+pecinos
+acercarse
+
+aspectos
+### Class 6
+
+destacar
+сериал
+en casa
+atreverse
+el comun
+lago
+lado
+pasar
+enamorarse de
+galanteos
+cortejar
+ocultar
+matrimonio
+en bano - все напрасно
+pele
+te sumerges
+de un modo facinante y maraviosso
+emnedar
+
+
+
+
+выучить слова из всех текстов, сделать таблицу в ocio cultural
+
 ---
 [Watch These Movies To Improve Your Spanish Listening Comprehension | Lingvist](https://lingvist.com/blog/watch-these-movies-to-improve-your-spanish-listening-comprehension/)
 

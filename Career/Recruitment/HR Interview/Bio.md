@@ -1,5 +1,0 @@
-# Bio
-
-My name is Vova, I have graduated with Bachelor’s in Economics and on the 3rd course I discovered an area that implies some statistics and programming finance. That is how I joined CompatibL as a quant analyst. I was super interested in DS and ML and tried to implement some algorithms from scratch in numpy. Then transitioned into a developer. For several months I performed data analysis in Python, worked with SQL db, with backend frameworks, developed some APIs, wrote tests, created concurrent applications using asynchronous, multithreading, and multiprocessing ways. Also, I developed an app using Docker.
-
-Now I am working as a backend engineer for Bank of America via the same firm – CompatibL. I am responsible for supporting microservices. For example, I have implemented a caching logic for one service, found memory leaks in another service and edited UI written in JS in the third service. This is what I did during last month.
