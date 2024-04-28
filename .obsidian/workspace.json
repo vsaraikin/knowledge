@@ -11,8 +11,12 @@
             "id": "f9afb27ca6cda7a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Programming Languages/Golang Interview.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Programming Languages/Golang Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Programming Languages/Golang Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/me, myself & i.excalidraw.md"
+                "file": "IT/Programming Languages/Golang Interview.md"
               }
             }
           },
@@ -135,8 +141,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7dd11c6dd1b58e61",
+  "active": "f9afb27ca6cda7a4",
   "lastOpenFiles": [
+    "index.md",
+    "IT/Backend/Distributed Systems.md",
+    "IT/Courses.md",
+    "Index.md",
+    "Diary/me, myself & i.excalidraw.md",
     "Spanish/static/spanish-keyboard.png",
     "Spanish/static",
     "Spanish/Spanish.md",
@@ -154,7 +165,6 @@
     "Diary/Gym/Progress.md",
     "Diary/Gym/Program.md",
     "Diary/Finance/Crypto.md",
-    "Diary/me, myself & i.excalidraw.md",
     "Diary/Spanish",
     "Diary/Gym",
     "Diary/Finance",
@@ -167,14 +177,11 @@
     "Personal/Gym/Program.md",
     "Personal/Finance/Crypto.md",
     "Personal/me, myself & i.excalidraw.md",
-    "Index.md",
     "Finance/CFD.md",
     "Health/Skincare.md",
     "Health/Medicine.md",
     "Health/Analysis.md",
     "Hobbies/Art/Books.md",
-    "Hobbies/Art/books/Три мушкетера.md",
-    "Hobbies/Art/books/Портрет Дориана Грея.md",
     "IT/Backend/static/semantics-delivery.png",
     "IT/Backend/static/kafka-partitions-brokers.png",
     "IT/Backend/static/kafka-balancing.png",
