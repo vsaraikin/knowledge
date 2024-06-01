@@ -13,5 +13,6 @@
     "readme"
   ],
   "baseFontSize": 16,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "textFontFamily": ""
 }

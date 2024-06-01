@@ -1,16 +1,23 @@
 # Golang Interview Guideline
 
+```toc
+```
 
 ## To-do
 
 - atomic, что такое и зачем нужны?
 - Как в памяти представляются числа c плавающей точкой в Go?
 - Можно ли использовать один и тот же буфер []byte в нескольких	 горутинах?
-- Что такое string builder?
-- Что возвращает []?
 - Как проверить тип интерфейса?
 - Будет ли работать type assertion с generics?
 - new vs make
+- [uber-go-guide-ru/style.md at master · sau00/uber-go-guide-ru · GitHub](https://github.com/sau00/uber-go-guide-ru/blob/master/style.md)
+- [cat /dev/head: Golang: channels implementation](https://dmitryvorobev.blogspot.com/2016/08/golang-channels-implementation.html)
+- [Go Slices: usage and internals - The Go Programming Language](https://go.dev/blog/slices-intro)
+- [Goroutines Under The Hood - Blog by Osamh aloqaily](https://osmh.dev/posts/goroutines-under-the-hood)
+- [Demystifying Go Channels: A Deep Dive into Concurrency | by Radhakishan Surwase | Level Up Coding](https://levelup.gitconnected.com/demystifying-go-channels-a-deep-dive-into-concurrency-d242322819f)
+- [golang channels under the hood - Google Search](https://www.google.com/search?client=safari&rls=en&q=golang+channels+under+the+hood&ie=UTF-8&oe=UTF-8)
+- [А ты хорошо знаешь Go? Держи пару полезностей по оптимизации кода / Habr](https://habr.com/en/articles/799331/)
 
 ## Общие
 
@@ -19,13 +26,11 @@
 - Объявить локальные переменные там
 - Помочь компилятору быстрее скомпилировать (там дерево)
 
-
 ### Замыкание (closure), зачем нужны?
-
 
 ### GMP паттерн
 
-### Сборщик муссора
+### Сборщик мусора
 
 #### Когда срабатывает?
 
@@ -35,6 +40,9 @@
 
 Если ничего не пришло в канал, то запуск дефолт кейса.
 
+
+
+----
 ## Типы данных
 
 ### Базовые типы данных

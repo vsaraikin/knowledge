@@ -1,51 +1,7 @@
 # Python Interview
 
-- [Python Interview](#python-interview)
-  * [Basic Python](#basic-python)
-    + [Что за язык Python?](#%D1%87%D1%82%D0%BE-%D0%B7%D0%B0-%D1%8F%D0%B7%D1%8B%D0%BA-python)
-    + [Почему он медленный?](#%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%BE%D0%BD-%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9)
-    + [mutable / immutable типы данных](#mutable--immutable-%D1%82%D0%B8%D0%BF%D1%8B-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
-    + [Bounded and unbounded методы?](#bounded-and-unbounded-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B)
-    + [При измени значения int будет ли меняться id?](#%D0%BF%D1%80%D0%B8-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B8-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-int-%D0%B1%D1%83%D0%B4%D0%B5%D1%82-%D0%BB%D0%B8-%D0%BC%D0%B5%D0%BD%D1%8F%D1%82%D1%8C%D1%81%D1%8F-id)
-    + [Что может быть в качестве ключа словаря?](#%D1%87%D1%82%D0%BE-%D0%BC%D0%BE%D0%B6%D0%B5%D1%82-%D0%B1%D1%8B%D1%82%D1%8C-%D0%B2-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5-%D0%BA%D0%BB%D1%8E%D1%87%D0%B0-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8F)
-    + [args & kwargs](#args--kwargs)
-    + [Замыкание (closure)](#%D0%B7%D0%B0%D0%BC%D1%8B%D0%BA%D0%B0%D0%BD%D0%B8%D0%B5-closure)
-    + [Декоратор с прокидыванием переменной](#%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80-%D1%81-%D0%BF%D1%80%D0%BE%D0%BA%D0%B8%D0%B4%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9)
-    + [Итератор и генератор](#%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-%D0%B8-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80)
-    + [Что такое coroutine?](#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-coroutine)
-    + [Что такое future?](#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-future)
-    + [Что такое дескрипторы?](#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B4%D0%B5%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D1%80%D1%8B)
-    + [collections](#collections)
-    + [PYTHOPATH](#pythopath)
-    + [Как понять хешируемый ли объект](#%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BD%D1%8F%D1%82%D1%8C-%D1%85%D0%B5%D1%88%D0%B8%D1%80%D1%83%D0%B5%D0%BC%D1%8B%D0%B9-%D0%BB%D0%B8-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82)
-    + [Как кодировать и декодировать строки](#%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%B4%D0%B5%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8)
-    + [Какие виды строк бывают в питоне](#%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%B2%D0%B8%D0%B4%D1%8B-%D1%81%D1%82%D1%80%D0%BE%D0%BA-%D0%B1%D1%8B%D0%B2%D0%B0%D1%8E%D1%82-%D0%B2-%D0%BF%D0%B8%D1%82%D0%BE%D0%BD%D0%B5)
-    + [Какие нюансы есть в использовании чисел как ключей](#%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%BD%D1%8E%D0%B0%D0%BD%D1%81%D1%8B-%D0%B5%D1%81%D1%82%D1%8C-%D0%B2-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8-%D1%87%D0%B8%D1%81%D0%B5%D0%BB-%D0%BA%D0%B0%D0%BA-%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9)
-  * [Memory Management](#memory-management)
-    + [Как создается переменная?](#%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F)
-    + [Memory consumption](#memory-consumption)
-    + [Garbage collector](#garbage-collector)
-    + [Какой метод разрешения коллизии используется в Python?](#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B8%D0%B7%D0%B8%D0%B8-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D1%81%D1%8F-%D0%B2-python)
-  * [OOP](#oop)
-    + [Property](#property)
-    + [Classmethod vs Staticmethod](#classmethod-vs-staticmethod)
-    + [Dataclass](#dataclass)
-    + [MRO](#mro)
-    + [Diamond problem](#diamond-problem)
-    + [Mixin](#mixin)
-    + [Metaclasses](#metaclasses)
-    + [Зачем нужен метод super?](#%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-super)
-    + [Что такое магические методы? Какие магические методы есть и для чего используются?](#%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%BC%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-%D0%BA%D0%B0%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B0%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-%D0%B5%D1%81%D1%82%D1%8C-%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B5%D0%B3%D0%BE-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%82%D1%81%D1%8F)
-    + [Зачем нужен метод super?](#%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-super-1)
-    + [Модификаторы доступа в python](#%D0%BC%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D1%8B-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%B2-python)
-  * [Concurrency](#concurrency)
-    + [GIL – зачем нужен?](#gil-%E2%80%93-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD)
-    + [Thread](#thread)
-    + [Mutex](#mutex)
-    + [Semaphore](#semaphore)
-    + [Race condition](#race-condition)
-    + [Deadlock](#deadlock)
-    + [Сложность операций в коллекциях](#%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B9-%D0%B2-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%D1%85)
+```table-of-contents
+```
 
 ## Basic Python
 
@@ -234,11 +190,11 @@ Python не освобождает всю память обратно опера
 
 Алгоритм очень простой и эффективный, но у него есть один большой недостаток. Он не умеет определять циклические ссылки. Именно из-за этого, в питоне существует дополнительный сборщик, именуемый GC, который следит за объектами с потенциальными циклическими ссылками.
 
-| Минусы | Плюсы |
-| --- | --- |
-| циклические ссылки | объекты удаляются сразу как только они не нужны |
-| блокирование потоков |  |
-| дополнительные накладные расходы на память и cpu |  |
+| Минусы                                           | Плюсы                                           |
+| ------------------------------------------------ | ----------------------------------------------- |
+| циклические ссылки                               | объекты удаляются сразу как только они не нужны |
+| блокирование потоков                             |                                                 |
+| дополнительные накладные расходы на память и cpu |                                                 |
 
 Проверить текущее кол-во ссылок можно через `sys.getrefcount(foo))`.
 

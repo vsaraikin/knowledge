@@ -134,14 +134,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false
     }
   },
   "active": "e13085c4cf5d0a8b",
   "lastOpenFiles": [
+    "IT/Backend/Databases.md",
+    "IT/Backend/Message Brokers.md",
     "Hobbies/Gym/Progress.md",
     "_static/sql_order.png",
     "_static/7-osi.png",
@@ -174,7 +173,6 @@
     "_static/redis-replicas.png",
     "Career/Learning/IT/Backend/MQ & Celery.md",
     "Hobbies/My website/readme.md",
-    "Hobbies/Mythology/readme.md",
     "Hobbies/Traveling",
     "Career/Learning/IT/Backend/docs/fastapi-roadmap-artemshumeiko.pdf",
     "Career/Learning/IT/Backend/docs",

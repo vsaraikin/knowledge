@@ -5,12 +5,13 @@
   "obsidian-auto-link-title",
   "table-editor-obsidian",
   "obsidian-smart-typography",
-  "obsidian-excalidraw-plugin",
   "settings-search",
   "obsidian-paste-image-rename",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "obsidian-hider",
   "automatic-table-of-contents",
-  "obsidian-underline"
+  "obsidian-underline",
+  "obsidian-kanban",
+  "code-styler"
 ]

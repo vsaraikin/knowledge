@@ -78,6 +78,15 @@
 
 ### Outbox
 
+## Clean architecture
+
+Controller – это то, что у нас лежит обычно в handler.go как самый верхний уровень fasthttp ручки.
+UseCase – это то, что лежит у нас обычно в service.go.
+Repository – это что в нашем случае? что-то типо GetInstrumentByUID?
+
+
+## DDD
+
 [Все о микросервисах](https://microservices.io/)
 
 [Зачем нужен паттерн database per service | Эйч Навыки | Менторство по Go - YouTube](https://www.youtube.com/watch?v=XefGw2hO3kI)

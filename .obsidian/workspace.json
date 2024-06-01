@@ -10,16 +10,33 @@
           {
             "id": "f9afb27ca6cda7a4",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Diary/Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7c44dc89f77de7bb",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Programming Languages/Golang Interview.md",
+                "file": "IT/Backend/Менторинг/03 - Cassandra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 273.5
   },
   "right": {
     "id": "c0b8c491b5e952f5",
@@ -85,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Programming Languages/Golang Interview.md",
+                "file": "IT/Backend/Менторинг/03 - Cassandra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Programming Languages/Golang Interview.md",
+                "file": "IT/Backend/Менторинг/03 - Cassandra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Programming Languages/Golang Interview.md"
+                "file": "IT/Backend/Менторинг/03 - Cassandra.md"
               }
             }
           },
@@ -138,57 +155,57 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f9afb27ca6cda7a4",
+  "active": "7dd11c6dd1b58e61",
   "lastOpenFiles": [
-    "index.md",
+    "IT/Backend/static/cassandra-read-write.png",
+    "IT/Backend/Менторинг/01 - PostgreSQL.md",
+    "IT/Backend/Computer Science.md",
+    "IT/Backend/static/forks_postgresql.png",
+    "Pasted image 20240601185323.png",
+    "Pasted image 20240601185331.png",
+    "IT/Backend/Менторинг/02 - Kafka.md",
+    "IT/Programming Languages/Golang Interview.md",
+    "IT/Backend/Менторинг/03 - Cassandra.md",
+    "IT/Backend/Architecture.md",
+    "Diary/Tasks.md",
+    "Spanish/Spanish.md",
+    "Spanish/Grammar.md",
+    "IT/Backend/Message Brokers.md",
+    "IT/Backend/Databases.md",
     "IT/Backend/Distributed Systems.md",
+    "IT/Backend/Менторинг",
+    "Diary/Untitled.md",
+    "IT/Backend/Web and Networks.md",
     "IT/Courses.md",
+    "index.md",
+    "IT/Backend/Testing.md",
+    "IT/DevOps/Kubernetes.md",
+    "IT/Frontend/Frontend.md",
+    "IT/Programming Languages/C++ Interview.md",
+    "IT/Programming Languages/JavaScript.md",
+    "IT/Programming Languages/Python Interview.md",
     "Index.md",
     "Diary/me, myself & i.excalidraw.md",
     "Spanish/static/spanish-keyboard.png",
     "Spanish/static",
-    "Spanish/Spanish.md",
-    "Spanish/Grammar.md",
     "Spanish",
     "Finance/Crypto.md",
     "Finance",
-    "Gym/Progress.md",
-    "Gym/Program.md",
     "Gym",
     "Diary/Spanish/static/spanish-keyboard.png",
     "Diary/Spanish/static",
-    "Diary/Spanish/Spanish.md",
-    "Diary/Spanish/Grammar.md",
-    "Diary/Gym/Progress.md",
-    "Diary/Gym/Program.md",
-    "Diary/Finance/Crypto.md",
     "Diary/Spanish",
     "Diary/Gym",
     "Diary/Finance",
     "Diary",
     "Personal/Spanish/static/spanish-keyboard.png",
-    "Personal/Spanish/static",
-    "Personal/Spanish/Spanish.md",
-    "Personal/Spanish/Grammar.md",
-    "Personal/Gym/Progress.md",
-    "Personal/Gym/Program.md",
-    "Personal/Finance/Crypto.md",
-    "Personal/me, myself & i.excalidraw.md",
-    "Finance/CFD.md",
-    "Health/Skincare.md",
-    "Health/Medicine.md",
-    "Health/Analysis.md",
-    "Hobbies/Art/Books.md",
     "IT/Backend/static/semantics-delivery.png",
     "IT/Backend/static/kafka-partitions-brokers.png",
     "IT/Backend/static/kafka-balancing.png",
     "IT/Backend/static/kafka-producer-design.png",
-    "IT/Backend/static/kafka-log.png",
-    "IT/Backend/static/kafka-liders-followers.png",
-    "IT/Backend/static/kafka-gurantees.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
