@@ -24,14 +24,28 @@
             }
           },
           {
-            "id": "7c44dc89f77de7bb",
+            "id": "bebc64efbac63643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Backend/Менторинг/03 - Cassandra.md",
+                "file": "Gym/Tracker.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b433e2a8c2dc647d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Diary/Tasks.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               }
             }
           }
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Backend/Менторинг/03 - Cassandra.md",
+                "file": "Gym/Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Backend/Менторинг/03 - Cassandra.md",
+                "file": "Gym/Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Backend/Менторинг/03 - Cassandra.md"
+                "file": "Gym/Tracker.md"
               }
             }
           },
@@ -152,60 +166,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7dd11c6dd1b58e61",
+  "active": "bebc64efbac63643",
   "lastOpenFiles": [
-    "IT/Backend/static/cassandra-read-write.png",
-    "IT/Backend/Менторинг/01 - PostgreSQL.md",
+    "Gym/[Archived]/Program.md",
+    "Gym/Tracker.md",
+    "Gym/[Archived]",
+    "Аптека.md",
+    "Languages",
+    "index.md",
     "IT/Backend/Computer Science.md",
-    "IT/Backend/static/forks_postgresql.png",
-    "Pasted image 20240601185323.png",
-    "Pasted image 20240601185331.png",
-    "IT/Backend/Менторинг/02 - Kafka.md",
-    "IT/Programming Languages/Golang Interview.md",
-    "IT/Backend/Менторинг/03 - Cassandra.md",
-    "IT/Backend/Architecture.md",
+    "Diary/Project Ideas.md",
     "Diary/Tasks.md",
-    "Spanish/Spanish.md",
-    "Spanish/Grammar.md",
-    "IT/Backend/Message Brokers.md",
+    "Diary/me, myself & i.excalidraw.md",
+    "Languages/Spanish/Grammar.md",
+    "Languages/Spanish/Spanish.md",
+    "Languages/French/French.md",
+    "Architecture.png",
+    "French.png",
+    "French/French.png",
+    "IT/Backend/Менторинг/05 - Архитектура.md",
+    "IT/Programming Languages/C++ Interview.md",
+    "IT/Backend/Web and Networks.md",
+    "IT/Backend/Менторинг/01 - PostgreSQL.md",
     "IT/Backend/Databases.md",
     "IT/Backend/Distributed Systems.md",
-    "IT/Backend/Менторинг",
-    "Diary/Untitled.md",
-    "IT/Backend/Web and Networks.md",
-    "IT/Courses.md",
-    "index.md",
-    "IT/Backend/Testing.md",
-    "IT/DevOps/Kubernetes.md",
-    "IT/Frontend/Frontend.md",
-    "IT/Programming Languages/C++ Interview.md",
-    "IT/Programming Languages/JavaScript.md",
+    "IT/Backend/PostgreSQL.md",
+    "IT/Programming Languages/Golang Interview.md",
     "IT/Programming Languages/Python Interview.md",
-    "Index.md",
-    "Diary/me, myself & i.excalidraw.md",
-    "Spanish/static/spanish-keyboard.png",
-    "Spanish/static",
-    "Spanish",
-    "Finance/Crypto.md",
+    "IT/Backend/System Design Interview.md",
+    "IT/Backend/Architecture.md",
+    "IT/Backend/Kafka.md",
+    "IT/Backend/Менторинг/04 - Redis.md",
+    "French/French 1.png",
+    "French/French-1.png",
+    "French/French-2.png",
+    "French/French-4.png",
+    "French/French-5.png",
+    "French/French-6.png",
+    "French/French-7.png",
+    "IT/Backend/Менторинг/02 - Kafka.md",
+    "IT/Backend/Testing.md",
+    "Languages/French/static",
+    "Languages/French",
+    "IT/Backend/Менторинг",
+    "Languages/Spanish/static",
+    "Languages/Spanish",
     "Finance",
     "Gym",
-    "Diary/Spanish/static/spanish-keyboard.png",
     "Diary/Spanish/static",
-    "Diary/Spanish",
-    "Diary/Gym",
-    "Diary/Finance",
-    "Diary",
-    "Personal/Spanish/static/spanish-keyboard.png",
-    "IT/Backend/static/semantics-delivery.png",
-    "IT/Backend/static/kafka-partitions-brokers.png",
-    "IT/Backend/static/kafka-balancing.png",
-    "IT/Backend/static/kafka-producer-design.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

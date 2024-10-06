@@ -22,5 +22,7 @@
   "minimal-style@@h1-weight": 600,
   "minimal-style@@h2-weight": 500,
   "minimal-style@@window-title-off": false,
-  "minimal-style@@tab-stacked-spine-orientation": "tab-stack-top"
+  "minimal-style@@tab-stacked-spine-orientation": "tab-stack-top",
+  "minimal-style@@list-spacing": 0.115,
+  "minimal-style@@list-indent": 2.2
 }

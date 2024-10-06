@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Backend/Message Brokers.md",
+                "file": "IT/Backend/PostgreSQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IT/Backend/Message Brokers.md",
+            "file": "IT/Backend/PostgreSQL.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IT/Backend/Message Brokers.md",
+            "file": "IT/Backend/PostgreSQL.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "IT/Backend/Message Brokers.md"
+            "file": "IT/Backend/PostgreSQL.md"
           }
         }
       },
@@ -131,16 +131,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e13085c4cf5d0a8b",
   "lastOpenFiles": [
-    "IT/Backend/Databases.md",
+    "Diary/me, myself & i.excalidraw.md",
+    "IT/Backend/Computer Science.md",
     "IT/Backend/Message Brokers.md",
+    "IT/Backend/Databases.md",
     "Hobbies/Gym/Progress.md",
     "_static/sql_order.png",
     "_static/7-osi.png",
@@ -171,8 +174,6 @@
     "Career/Learning/IT/Backend/Celery.md",
     "Hobbies/Art/books/Три мушкетера.md",
     "_static/redis-replicas.png",
-    "Career/Learning/IT/Backend/MQ & Celery.md",
-    "Hobbies/My website/readme.md",
     "Hobbies/Traveling",
     "Career/Learning/IT/Backend/docs/fastapi-roadmap-artemshumeiko.pdf",
     "Career/Learning/IT/Backend/docs",

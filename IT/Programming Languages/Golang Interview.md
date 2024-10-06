@@ -5,9 +5,9 @@
 
 ## To-do
 
-- atomic, что такое и зачем нужны?
+
 - Как в памяти представляются числа c плавающей точкой в Go?
-- Можно ли использовать один и тот же буфер []byte в нескольких	 горутинах?
+
 - Как проверить тип интерфейса?
 - Будет ли работать type assertion с generics?
 - new vs make
@@ -18,6 +18,32 @@
 - [Demystifying Go Channels: A Deep Dive into Concurrency | by Radhakishan Surwase | Level Up Coding](https://levelup.gitconnected.com/demystifying-go-channels-a-deep-dive-into-concurrency-d242322819f)
 - [golang channels under the hood - Google Search](https://www.google.com/search?client=safari&rls=en&q=golang+channels+under+the+hood&ie=UTF-8&oe=UTF-8)
 - [А ты хорошо знаешь Go? Держи пару полезностей по оптимизации кода / Habr](https://habr.com/en/articles/799331/)
+- Сколько слайс переданный функцию будет дополнительно занимать байт в хипе или сколько на стеке?
+- Escape Analysis: sharing down, sharing up – как управлять куда залетит переменная на стек или кучу
+- Как работает `ThreadSanitazer`? Почему нельзя сборку с `-race` выкатывать на прод?
+- Goroutines stealing
+
+### Atmoic в Go
+
+Потокобезопасный пакет, где под капотом используется _**compare-and-swap (CAS) или atomic load/store**_. То есть специальные инструкции для CPU, которые проверяют, что выполнили операцию ровно один раз.
+
+### Что такое ошибки в голанге?
+
+Просто интерфейс с методом string
+
+```go
+type error interface {
+    Error() string
+}
+```
+
+
+### L3 кэш в Go
+
+В процессоре есть такой L3 кэш и если выбрать правильную структуру данных, то можно сделать так, чтобы даже при работе со слайсом был `O(1)`, потому что мы попадаем в кеш-линию.
+
+### Можно ли использовать один и тот же буфер []byte в нескольких	 горутинах?
+
 
 ## Общие
 

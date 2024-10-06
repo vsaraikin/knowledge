@@ -76,7 +76,25 @@
 
 ### Saga
 
-### Outbox
+Сага с компенсирующими транзакциями
+
+### [Pattern: Transactional outbox](https://microservices.io/patterns/data/transactional-outbox.html)
+
+Идея:
+
+Есть локальный сторадж с аутбоксом для коммуникации между сервисами.
+![](Architecture.png)
+
+- письмо отправлено один раз
+
+Боксы:
+
+- exactly-once
+- 
+
+### Inbox
+
+- письмо за процесснуто один раз
 
 ## Clean architecture
 
