@@ -1,4 +1,4 @@
-# Message Broker
+# Message Brokers
 
 ```table-of-contents
 ```

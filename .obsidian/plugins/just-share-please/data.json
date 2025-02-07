@@ -1,0 +1,19 @@
+{
+  "url": "https://jsp.ellpeck.de",
+  "shared": [
+    {
+      "id": "4776be73",
+      "password": "506b51613ebf6101c3d52b232cbecd2e",
+      "path": "Applications.md"
+    },
+    {
+      "id": "b261de27",
+      "password": "bfc3882f1c9758a1475d19a21b5de8fe",
+      "path": "IT/Programming Languages/Golang Interview.md"
+    }
+  ],
+  "stripFrontmatter": true,
+  "includeNoteName": true,
+  "unshareDeletedFiles": true,
+  "autoUpdateShares": false
+}

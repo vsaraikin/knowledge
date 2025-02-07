@@ -1,4 +1,4 @@
-# Golang Interview Guideline
+# Golang Interview
 
 ```toc
 ```
@@ -22,6 +22,8 @@
 - Escape Analysis: sharing down, sharing up – как управлять куда залетит переменная на стек или кучу
 - Как работает `ThreadSanitazer`? Почему нельзя сборку с `-race` выкатывать на прод?
 - Goroutines stealing
+- Go – императивный или декларативный? В чем разница
+- Что будет если писать в закрытый канал?
 
 ### Atmoic в Go
 

@@ -373,6 +373,11 @@ A deadlock is a concurrency failure mode where a thread or threads wait for a co
 
 [How to Identify a Deadlock in Python](https://superfastpython.com/thread-deadlock-in-python/)
 
+## Misc
+
+Largest Python int
+
+
 ---
 
 ### Сложность операций в коллекциях

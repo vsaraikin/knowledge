@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Backend/PostgreSQL.md",
+                "file": "2025 Goals.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2025 Goals"
             }
           }
         ]
@@ -35,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -50,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -61,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -69,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -85,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IT/Backend/PostgreSQL.md",
+            "file": "Quant Plan 2024.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +103,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -102,10 +114,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IT/Backend/PostgreSQL.md",
+            "file": "Quant Plan 2024.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -114,8 +128,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "IT/Backend/PostgreSQL.md"
-          }
+            "file": "Quant Plan 2024.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -123,7 +139,9 @@
         "type": "leaf",
         "state": {
           "type": "QUICKSHARE_SIDE_VIEW",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -131,16 +149,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-omnivore:Omnivore": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e13085c4cf5d0a8b",
   "lastOpenFiles": [
+    "Quant Plan 2024.md",
+    "Read Later/2024-10-24/Uniswap V3 ticks - dive into concentrated liquidity.md",
+    "Read Later/2024-10-24/LVR- Quantifying the Cost of Providing Liquidity - a16z crypto.md",
+    "Read Later/2024-10-24/Liquidity Provider Strategies for Uniswap v3- Loss Versus Rebalancing (LVR) - by Atis E - Medium.md",
+    "Read Later/2024-10-24",
+    "IT/Backend/System Design Interview.md",
+    "Read Later/2024-10-22/Скрытый смысл фильма «Бойцовский клуб» (1999)- почему в конце рушатся небоскребы.md",
+    "Read Later/2024-10-22/HighFrequencyTrading.md",
+    "Read Later/2024-10-22/Repository search results.md",
     "Diary/me, myself & i.excalidraw.md",
+    "Test-Canvas.canvas",
+    "Чтение.md",
+    "Diary/Project Ideas.md",
+    "Коммуникация.md",
+    "IT/Backend/PostgreSQL.md",
     "IT/Backend/Computer Science.md",
     "IT/Backend/Message Brokers.md",
     "IT/Backend/Databases.md",
@@ -156,23 +190,11 @@
     "_Diary/Ideas.md",
     "_Diary/Goals.md",
     "_Diary/Code of honour.md",
-    "Career/Learning/IT/Backend/OZON - 15.12.2023.md",
-    "Hobbies/Gym/Program.md",
-    "Career/Learning/IT/Backend/Computer Science.md",
-    "Career/Learning/IT/Backend/Web and Networks.md",
-    "Career/Learning/IT/Backend/Databases.md",
-    "Career/Learning/IT/Backend/Distributed Systems.md",
-    "Career/Learning/IT/Backend/Docker.md",
-    "Career/Learning/IT/Backend/Redis.md",
-    "Career/Learning/IT/Backend/Message Brokers.md",
     "_static/Pasted image 20231114105058.png",
     "_static/Pasted image 20231114105737.png",
     "_static/Pasted image 20231114105514.png",
-    "Career/Learning/Finance/CFD.md",
     "_static/Pasted image 20231114105145.png",
     "_static/Pasted image 20231114105218.png",
-    "Career/Learning/IT/Backend/Celery.md",
-    "Hobbies/Art/books/Три мушкетера.md",
     "_static/redis-replicas.png",
     "Hobbies/Traveling",
     "Career/Learning/IT/Backend/docs/fastapi-roadmap-artemshumeiko.pdf",

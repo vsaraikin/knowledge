@@ -1,22 +1,22 @@
 {
-  "promptDelete": false,
-  "tabSize": 4,
-  "spellcheck": true,
-  "showFrontmatter": true,
-  "livePreview": true,
-  "showIndentGuide": false,
-  "alwaysUpdateLinks": true,
-  "showLineNumber": false,
-  "showInlineTitle": false,
-  "useMarkdownLinks": true,
-  "autoPairMarkdown": false,
-  "pdfExportSettings": {
-    "includeName": false,
-    "pageSize": "A3",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "attachmentFolderPath": "static",
-  "propertiesInDocument": "visible"
-}
+    "promptDelete": false,
+    "tabSize": 4,
+    "spellcheck": true,
+    "showFrontmatter": true,
+    "livePreview": true,
+    "showIndentGuide": false,
+    "alwaysUpdateLinks": true,
+    "showLineNumber": false,
+    "showInlineTitle": false,
+    "useMarkdownLinks": true,
+    "autoPairMarkdown": false,
+    "pdfExportSettings": {
+      "includeName": false,
+      "pageSize": "A3",
+      "landscape": false,
+      "margin": "0",
+      "downscalePercent": 100
+    },
+    "attachmentFolderPath": "static",
+    "propertiesInDocument": "visible"
+  }
